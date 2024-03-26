@@ -1,0 +1,8 @@
+gradio==4.20.1
+boto3==1.34.59
+botocore==1.34.59
+python-dotenv==1.0.1
+gradio-client
+opensearch-py==2.4.2
+requests-aws4auth==1.2.3
+langchain==0.1.11

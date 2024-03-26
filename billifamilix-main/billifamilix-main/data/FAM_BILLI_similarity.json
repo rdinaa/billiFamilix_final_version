@@ -1,0 +1,1934 @@
+ {
+    "AnnulMvtFactureDetBean": {
+        "InvCalcOriginRatingFeeAttachment.java": 0.023433113,
+        "InvCalcPositionFlat.java": 0.022690548,
+        "InvCalcEntityParameters.java": 0.021793727,
+        "AbstractCalcLineDataAssembler.java": 0.021274924
+    },
+    "EnteteDcaBean": {
+        "InvCalcEntityParameters.java": 0.017422523,
+        "InvCalcOriginRatingFeeAttachment.java": 0.016098643,
+        "InvCalcPositionFlat.java": 0.015622021
+    },
+    "GestionBm": {
+        "AbstractCalcLineDataAssembler.java": 0.01494384,
+        "MalusReportWorkerContext.java": 0.011465579,
+        "InvCalcOriginToplinerPremium.java": 0.014888002,
+        "TaskHandlerUtilities.java": 0.012214188,
+        "InvCalcEntryAdministrationBean.java": 0.011600811,
+        "PERFixedPremium.java": 0.012281681,
+        "AttachmentBonusInGeneralWorker.java": 0.013394411,
+        "BonusMalusAttachmentWorkerContext.java": 0.013192952,
+        "BonusProfitParticipationReportWorkerContext.java": 0.0126884105,
+        "BonusMalusReportWorkerContext.java": 0.012684418,
+        "AttachmentBonusMalusWorker.java": 0.014816464,
+        "BonusMalustUtilTest.java": 0.016090931,
+        "BonusMalusUtil.java": 0.015717335,
+        "TestContractCCC.java": 0.005976652,
+        "BDTDump.java": 0.0059015476,
+        "TestInvCalcDataDelivery.java": 0.005582319,
+        "BonusExtensionV10.java": 0.013184439,
+        "DeclarationExtensionV10.java": 0.012840317,
+        "AttachmentMalusWorker.java": 0.015172042,
+        "AttachmentBonusProfitParticipationWorkerCde.java": 0.011145493,
+        "InvCalcEntityParameters.java": 0.011577729,
+        "ConsumptionReportUtilForPdf.java": 0.012461943,
+        "AttachmentBonusInGeneralWorkerCat.java": 0.012977295,
+        "BonusMalusEntryBuilderCAT.java": 0.00881111,
+        "IBonusMalusUtil.java": 0.010963874,
+        "FPSExtensionV10.java": 0.010875373,
+        "PreCheck.java": 0.007722876,
+        "PostCalculationTest.java": 0.0075212875,
+        "RoundingControl.java": 0.012125201
+    },
+    "FamBmProfil": {
+        "InvCalcEntityParameters.java": 0.013811847,
+        "InvCalcOriginRatingFeeAttachment.java": 0.013465562,
+        "InvCalcOriginToplinerPremium.java": 0.012355319,
+        "InvCalcPositionFlat.java": 0.012252092
+    },
+    "BonusMalusDetailBean": {
+        "InvCalcPositionFlat.java": 0.017658578,
+        "InvCalcOriginRatingFeeAttachment.java": 0.017615158,
+        "InvCalcOriginToplinerPremium.java": 0.01731359,
+        "InvCalcEntityParameters.java": 0.017285256
+    },
+    "RelanceDcaPmsCsv": {
+        "InvCalcDataDeliveryBean.java": 0.013536038,
+        "InvCalcReportCreatedEntries.java": 0.013446631,
+        "ProvPaymentUtil.java": 0.0132448,
+        "InvCalcOriginRatingFeeAttachment.java": 0.013218297
+    },
+    "DetailPbBean": {
+        "InvCalcReportCalcLinesPLC.java": 0.018170742,
+        "InvCalcOriginRatingFeeAttachment.java": 0.017878544,
+        "InvCalcEntityParameters.java": 0.017300757,
+        "InvCalcPositionFlat.java": 0.017242074
+    },
+    "ForcagePbMgt": {
+        "PPBExtensionV10.java": 0.01725699,
+        "InvCalcEntityParameters.java": 0.016467812,
+        "ProvPaymentUtil.java": 0.016446859,
+        "InvCalcReportNcbDiscrepancy.java": 0.016190918,
+        "InvCalcOriginToplinerPremium.java": 0.014685015,
+        "Fee.java": 0.0141034555,
+        "InvCalcOriginInfoToplinerPremium.java": 0.013996808,
+        "AbstractCalcLineDataAssembler.java": 0.01529616,
+        "PostCalculationTest.java": 0.01744337,
+        "ServicesDataHolder.java": 0.012379837,
+        "InvCalcDataDeliveryBean.java": 0.012001624,
+        "DAOInvCalcEntry.java": 0.011611441,
+        "TestInvCalcMisc.java": 0.015211148,
+        "TestCancelEntry.java": 0.012652018,
+        "SaveCalcEntryTest.java": 0.010591258,
+        "BonusMalusUtil.java": 0.015197613,
+        "EntityHelperFacade.java": 0.014284506,
+        "InvCalcOriginRatingFeeAttachment.java": 0.013994574,
+        "TestGetEntityParameters.java": 0.010880128
+    },
+    "BcContratCube": {
+        "DAOInvCalcReportIrrecovDebts.java": 0.016893087,
+        "PostCalculationTest.java": 0.0182879,
+        "DAOInvCalcReportCalcLines.java": 0.015456272,
+        "TestInvCalcDataDeliverySearch.java": 0.015940541,
+        "DAOInvCalcReportInvoice.java": 0.015881222,
+        "InvCalcReportCalcLines.java": 0.015657652,
+        "DAOInvCalcLine.java": 0.01531814,
+        "InvCalcReportCalcLinesPerContracts.java": 0.014373284,
+        "InvoiceDocument.java": 0.013677235,
+        "TestInvCalcMisc.java": 0.016643848,
+        "MinimumPremiumInAdvanceCheck.java": 0.012139131,
+        "PPBExtensionV10.java": 0.012017105,
+        "DAOInvCalcPositionFlat.java": 0.011965274,
+        "TestInvCalcDataDelivery.java": 0.018992614,
+        "TestContract.java": 0.010951702,
+        "TestGetEntityParameters.java": 0.015874164,
+        "DAOInvCalcReportRun.java": 0.013308572,
+        "ConsumptionReportUtilForPdf.java": 0.008660784,
+        "InternInvoiceCalculationConstants.java": 0.008343872,
+        "BDTDump.java": 0.008795198,
+        "SaveCalcEntryTest.java": 0.008459873,
+        "InvCalcReportAttachmentServiceFeeInvoice.java": 0.008376849,
+        "BonusMalusReport.java": 0.008204192,
+        "CalcDataImportNCBTest.java": 0.016912453
+    },
+    "IFAM01OLD": {
+        "InvalidInvCalcEntryData.java": 0.0100478325,
+        "InvalidInvCalcEntityParamters.java": 0.009537044,
+        "InvalidInvCalcEntities.java": 0.009517041,
+        "InvalidInvCalcOriginSystems.java": 0.009103274
+    },
+    "MajPrimeBean": {
+        "InvCalcEntityParameters.java": 0.018427499,
+        "InvCalcPositionFlat.java": 0.01822407,
+        "InvCalcOriginRatingFeeAttachment.java": 0.018185012
+    },
+    "PrimesCsv": {
+        "TestInvCalcDataDelivery.java": 0.017489342,
+        "PostCalculationTest.java": 0.016518759,
+        "InvCalcReportCalcLines.java": 0.01119722,
+        "CalcDataImportNCBTest.java": 0.015969994,
+        "InvoiceCalculationBean.java": 0.0078070387,
+        "TestInvCalcLine.java": 0.007767947,
+        "InvCalcOriginRatingFeeAttachment.java": 0.0076629044,
+        "InvCalcOriginToplinerPremium.java": 0.0076267812,
+        "GetCalcEntryTest.java": 0.008957374,
+        "TestInvCalcMisc.java": 0.008272171
+    },
+    "RefactFinDExBean": {
+        "InvalidCalculationData.java": 0.019614708,
+        "InvCalcOriginRatingFeeAttachment.java": 0.018895969,
+        "InvCalcOriginAuditFee.java": 0.018686228,
+        "InvCalcReportCalcLinesPLC.java": 0.018455414
+    },
+    "AnomalieBean": {
+        "InvCalcReportCalcLinesPLC.java": 0.015391563,
+        "InvCalcOriginRatingFeeAttachment.java": 0.0152130695,
+        "InvalidCalculationData.java": 0.015054631,
+        "InvCalcReportWorkListResultBean.java": 0.0144842
+    },
+    "EnteteDcaMgt": {
+        "TestInvCalcDataDelivery.java": 0.01824068,
+        "InvCalcDataDeliveryBean.java": 0.0173518,
+        "DAOInvCalcOriginInfo.java": 0.017156558,
+        "TestContractCCHReport.java": 0.017772952,
+        "DAOInvCalcReportCalcLines.java": 0.013892506,
+        "ProvPaymentUtil.java": 0.016998136,
+        "PostCalculationTest.java": 0.017181793,
+        "InvCalcReportCalcLines.java": 0.01683987,
+        "DAOInvCalcCounters.java": 0.013909495,
+        "EntityHelperFacade.java": 0.012011792,
+        "InvCalcDataImportBean.java": 0.012763287,
+        "InvCalcMainProcessingBean.java": 0.011287297,
+        "InvCalcEntryAdministrationBean.java": 0.010540462,
+        "AbstractCalcLineDataAssembler.java": 0.011974654,
+        "SaveCalcEntryTest.java": 0.012545736,
+        "TestCancelEntry.java": 0.015307902,
+        "TestInvCalcMisc.java": 0.012340526,
+        "TestGetEntityParameters.java": 0.01196382
+    },
+    "TypeDcaBean": {
+        "InvCalcEntityParameters.java": 0.013197492,
+        "CtrctInfo.java": 0.0128932325,
+        "InvCalcOriginRatingFeeAttachment.java": 0.01288883,
+        "InvCalcEntities.java": 0.012364864
+    },
+    "MontantBmBean": {
+        "InvCalcReportBonusMalusResult.java": 0.015345282,
+        "InvCalcRebate.java": 0.015249543,
+        "DismissFees.java": 0.015019107,
+        "InvCalcPositionFlat.java": 0.015013177
+    },
+    "IFAM01": {
+        "InvalidInvCalcEntryData.java": 0.01026871,
+        "InvalidInvCalcEntityParamters.java": 0.009640176,
+        "InvalidInvCalcEntities.java": 0.009504372,
+        "InvalidInvCalcOriginSystems.java": 0.009238031
+    },
+    "DcaBean": {
+        "InvCalcEntityParameters.java": 0.020418392,
+        "InvCalcOriginRatingFeeAttachment.java": 0.017257323
+    },
+    "Format": {
+        "InvCalcReportWorkListResultBean.java": 0.010724866,
+        "ReportHeaderUtil.java": 0.010019729,
+        "ConsumptionReportUtil.java": 0.009189269
+    },
+    "SimpleFileDownload": {
+        "BdtUtil.java": 0.008369805,
+        "BDTDump.java": 0.008023828,
+        "TestContractCCC_Adapt_NCIU.java": 0.0076159486,
+        "Dfct433Test.java": 0.007291264
+    },
+    "AnnulMvtFactureBean": {
+        "InvCalcOriginRatingFeeAttachment.java": 0.018553203,
+        "DismissFees.java": 0.017533988,
+        "InvCalcEntityParameters.java": 0.017353944,
+        "InvalidCalculationData.java": 0.01685762
+    },
+    "Sl1b": {
+        "InvCalcOriginRatingFeeAttachment.java": 0.017722415,
+        "InvCalcEntityParameters.java": 0.020742925,
+        "InvCalcLinesCalculator.java": 0.012630016,
+        "InvCalcLineContainer.java": 0.0124122575,
+        "AbstractCalcLineDataAssembler.java": 0.017134495,
+        "DismissFees.java": 0.019018378,
+        "InvCalcPositionFlat.java": 0.018651959
+    },
+    "Sl1aMgt": {
+        "KnownUnknownValidator.java": 0.011724157,
+        "InvCalcOriginRatingFeeAttachment.java": 0.011709193,
+        "InvCalcEntityParameters.java": 0.011667864,
+        "TestGetEntityParameters.java": 0.011402837
+    },
+    "StringUtilitaire": {
+        "ConsumptionReportUtilForPdf.java": 0.013937022,
+        "TestCancelEntry.java": 0.011568814,
+        "AbstractCalcLineDataAssembler.java": 0.011438671,
+        "BDTDump.java": 0.014061135,
+        "InvoiceLine.java": 0.01389332,
+        "CancellationTest.java": 0.013695666,
+        "CurrencyUtils.java": 0.010912162
+    },
+    "BaremeBmMgt": {
+        "CancellationTest.java": 0.014239926,
+        "ConsumptionReportUtilForPdf.java": 0.013878107,
+        "AttachmentBonusMalusWorker.java": 0.013520241,
+        "InvCalcDataImportBean.java": 0.013478005
+    },
+    "ConsidererFacturerCsv": {
+        "CalculationTest.java": 0.012949176,
+        "InvCalcReportAttachmentServiceFeeInvoiceResult.java": 0.012686684,
+        "RatingFee.java": 0.012648557,
+        "InvCalcLinesCalculator.java": 0.012623467
+    },
+    "DcaCsv": {
+        "TestInvCalcDataDelivery.java": 0.017425206,
+        "TestContractCCHReport.java": 0.01700363,
+        "ProvPaymentUtil.java": 0.0150157
+    },
+    "Sl1tMgt": {
+        "InvCalcLinesCalculator.java": 0.015080186,
+        "DAOInvCalcPositionFlat.java": 0.014755762,
+        "ProvPaymentUtil.java": 0.014364316,
+        "PPBExtensionV10.java": 0.014319065,
+        "InvCalcDataImportBean.java": 0.0136474,
+        "InfolinesBuilderCAT.java": 0.012828848,
+        "LimitPremiumContextLister.java": 0.01276563,
+        "PERFixedPremium.java": 0.01267147,
+        "CalculationTest.java": 0.01245636,
+        "AbstractCalcLineDataAssembler.java": 0.013124912,
+        "DAOInvCalcCounters.java": 0.012056292,
+        "InvCalcEntry.java": 0.01223968,
+        "TestCancelEntry.java": 0.011768575,
+        "InvCalcOriginRatingFeeAttachment.java": 0.013056657,
+        "RatingFee.java": 0.013013643,
+        "InvCalcEntityParameters.java": 0.012569429,
+        "EntityCalculator.java": 0.013384984,
+        "TestContractCCC.java": 0.011916131,
+        "AttachmentBonusMalusWorker.java": 0.011499458,
+        "TestGetEntityParameters.java": 0.016806655,
+        "InvCalcRunAdministrationBean.java": 0.01450719,
+        "LimitUtilities.java": 0.01535118,
+        "InvoiceRunPP.java": 0.01476333
+    },
+    "GestionBmOld": {
+        "MalusReportWorkerContext.java": 0.011530892,
+        "BonusProfitParticipationReportWorkerContext.java": 0.01172701,
+        "IBonusMalusUtil.java": 0.011010498,
+        "AbstractCalcLineDataAssembler.java": 0.014154405,
+        "TaskHandlerUtilities.java": 0.011955216,
+        "InvCalcEntryAdministrationBean.java": 0.011600811,
+        "PERFixedPremium.java": 0.012993316,
+        "DeclarationExtensionV10.java": 0.012840317,
+        "AttachmentBonusProfitParticipationWorkerCde.java": 0.01171569,
+        "EntityHelperFacade.java": 0.011460865,
+        "AttachmentMalusWorker.java": 0.013209473,
+        "AttachmentBonusInGeneralWorker.java": 0.01303939,
+        "BonusMalusReportWorkerContext.java": 0.011886499,
+        "BonusMalustUtilTest.java": 0.013952167,
+        "BonusMalusUtil.java": 0.01433119,
+        "AttachmentBonusMalusWorkerTest.java": 0.012984885,
+        "BonusExtensionV10.java": 0.013184439,
+        "InvCalcOriginToplinerPremium.java": 0.013202581,
+        "InvCalcEntityParameters.java": 0.0131145,
+        "AttachmentBonusMalusWorker.java": 0.011719941,
+        "PPBExtensionV10.java": 0.0111226505,
+        "InvCalcOriginRatingFeeAttachment.java": 0.010231081,
+        "RoundingControl.java": 0.010367606,
+        "ConsumptionReportUtilForPdf.java": 0.010358231,
+        "BalanceControl.java": 0.006742524
+    },
+    "PbProfilMgt": {
+        "InvCalcGlobalParameters.java": 0.005264972,
+        "InvCalcReportServicesPLC.java": 0.0052101007,
+        "InvCalcEntityOriginRelations.java": 0.0051730336,
+        "PPBStrategy.java": 0.005132315,
+        "DeclarationExtensionV10.java": 0.010440144,
+        "CalculationTest.java": 0.013235477,
+        "AbstractCalcLineDataAssembler.java": 0.014387924,
+        "BDTDump.java": 0.010637897,
+        "AttachmentBonusInGeneralWorker.java": 0.010370885,
+        "AttachmentBonusMalusWorker.java": 0.010366218,
+        "TestContractCCC.java": 0.010164017,
+        "AdminFacade.java": 0.013571278,
+        "InvCalcLinesCalculator.java": 0.013544413,
+        "InvCalcDataImportBean.java": 0.013252458,
+        "InvCalcEntityParameters.java": 0.013019083,
+        "InvCalcOriginRatingFeeAttachment.java": 0.012218889,
+        "TestGetEntityParameters.java": 0.013154704,
+        "ConsumptionReportUtil.java": 0.009972213,
+        "TestCancelEntry.java": 0.009773264,
+        "CalculationUtil.java": 0.009424238,
+        "PostCalculationTest.java": 0.009418342
+    },
+    "ValiderPbEnMasseBean": {
+        "InvalidInvCalcEntryData.java": 0.011114416,
+        "InvCalcDataImportBean.java": 0.011007863,
+        "InvalidCalculationData.java": 0.010871831,
+        "InvCalcLineContainer.java": 0.0107439
+    },
+    "IFAMCUBE05": {
+        "InvalidInvCalcEntryData.java": 0.009683967,
+        "InvalidInvCalcEntityParamters.java": 0.009085885,
+        "InvalidInvCalcOriginSystems.java": 0.009051298,
+        "InvalidInvCalcEntities.java": 0.008968035
+    },
+    "BonusMalusDetailMgt": {
+        "AbstractCalcLineDataAssembler.java": 0.017281549,
+        "InvCalcEntityParameters.java": 0.015170479,
+        "PPBExtensionV10.java": 0.014902781,
+        "BonusMalusUtil.java": 0.01886978,
+        "AttachmentBonusMalusWorker.java": 0.017373106,
+        "InvCalcOriginRatingFeeAttachment.java": 0.017298594,
+        "InvCalcEntry.java": 0.015253793,
+        "AttachmentBonusInGeneralWorker.java": 0.014585625,
+        "InvCalcOriginToplinerPremium.java": 0.015348985,
+        "DAOInvCalcReportIrrecovDebts.java": 0.010815696,
+        "DAOInvCalcOriginInfo.java": 0.008650785,
+        "DAOInvCalcReportRun.java": 0.008539063,
+        "DAOInvCalcEntry.java": 0.008459231,
+        "PostCalculationTest.java": 0.012704844,
+        "InvCalcDataDeliveryBean.java": 0.012280691,
+        "TestCancelEntry.java": 0.0121319285,
+        "DAOInvCalcReportInvoice.java": 0.011935664,
+        "TestInvCalcMisc.java": 0.010727394,
+        "ServicesDataHolder.java": 0.009518842,
+        "InvCalcReportCalcLines.java": 0.009464074
+    },
+    "OutilExtractBean": {
+        "InvCalcOriginRatingFeeAttachment.java": 0.014883174,
+        "DismissFees.java": 0.014517206,
+        "AbstractCalcLineDataAssembler.java": 0.014358788
+    },
+    "FamConsidererFacturer": {
+        "InvCalcLinesCalculator.java": 0.0150978565,
+        "InvCalcOriginAuditFeeAttachment.java": 0.014657724,
+        "InvCalcDataImportBean.java": 0.014595411,
+        "CalculationUtil.java": 0.014581514
+    },
+    "FamDetailFrais": {
+        "InvCalcReportServicesPLC.java": 0.011965622,
+        "InvCalcServiceFeeRelations.java": 0.011824884,
+        "InvCalcOriginRatingFeeAttachment.java": 0.012674745,
+        "InvCalcServices.java": 0.010933427,
+        "InvCalcDataDeliveryBean.java": 0.014760784,
+        "PostCalculationTest.java": 0.0143473,
+        "ProvPaymentUtil.java": 0.013901501,
+        "PPBExtensionV10.java": 0.013681077,
+        "InvCalcOriginAuditFeeAttachment.java": 0.016632618,
+        "DAOInvCalcReportInvoice.java": 0.016556976,
+        "InvCalcReportWorkListResultBean.java": 0.01623242,
+        "InvoiceRunBonusMalus.java": 0.01584492,
+        "InvCalcPositionFlat.java": 0.012397088,
+        "InvCalcEntityParameters.java": 0.011814593,
+        "InvCalcOriginToplinerPremium.java": 0.0117485905
+    },
+    "OFAM01": {
+        "InvalidInvCalcEntryData.java": 0.0098667415,
+        "InvalidInvCalcEntityParamters.java": 0.009851813,
+        "InvalidInvCalcOriginSystems.java": 0.009101557,
+        "InvalidClaimData.java": 0.009033494
+    },
+    "AcheteursCsv": {
+        "TestInvCalcDataDelivery.java": 0.01530107,
+        "TestContractCCHReport.java": 0.014886295,
+        "InvCalcOriginRatingFeeAttachment.java": 0.014597635
+    },
+    "FamBonusMalus": {
+        "BonusMalusUtil.java": 0.016304815,
+        "InvCalcRebate.java": 0.015966091,
+        "InvCalcOriginRatingFeeAttachment.java": 0.017285636,
+        "IBonusMalusUtil.java": 0.015059699,
+        "DAOInvCalcLine.java": 0.01621865,
+        "DAOInvCalcReportIrrecovDebts.java": 0.013917557,
+        "MinimumPremiumInAdvanceCheck.java": 0.013779065,
+        "DAOInvCalcReportCalcLines.java": 0.013769585,
+        "PostCalculationTest.java": 0.017511189,
+        "DismissFees.java": 0.017526587,
+        "InvoiceRelatedTaxCalculation.java": 0.017061893,
+        "DAOInvCalcReportInvoice.java": 0.015598272,
+        "ConsumptionReportUtilForPdf.java": 0.021353282,
+        "InvCalcEntityParameters.java": 0.018705623,
+        "InvoiceDocument.java": 0.018546803,
+        "SaveCalcEntryTest.java": 0.018391728,
+        "CalcDataImportNCBTest.java": 0.01447549,
+        "RatingFee.java": 0.0138281835,
+        "MinimumPremiumUtil.java": 0.015301017,
+        "PPBExtensionV10.java": 0.015233441,
+        "InvCalcDataDeliveryBean.java": 0.015187021,
+        "InvCalcOriginAuditFeeAttachment.java": 0.01967508,
+        "InvCalcOriginRatingFee.java": 0.017687967,
+        "InvCalcLine.java": 0.018567048,
+        "InvCalcReportCalcLinesPLC.java": 0.0196843,
+        "InvCalcReportNcbEndOfIYResult.java": 0.016583283
+    },
+    "Sl3b": {
+        "DAOInvCalcOriginSystems.java": 0.011461078,
+        "DAOInvCalcEntityBankInfo.java": 0.01065367,
+        "DAOInvCalcCounters.java": 0.010163509,
+        "DAOInvCalcOriginInfoToplinerPremium.java": 0.010071217
+    },
+    "QueryExecutor": {
+        "DAOInvCalcCounters.java": 0.011852567,
+        "DAOInvCalcEntityDispatchProperties.java": 0.0115398485,
+        "DAOInvCalcReportRun.java": 0.011202249,
+        "DAOInvCalcPositionFlat.java": 0.010864536
+    },
+    "AssAFRoleBean": {
+        "InvCalcOriginRatingFeeAttachment.java": 0.011363909,
+        "InvalidInvCalcEntryData.java": 0.01132081,
+        "InvCalcOriginInfoRatingFee.java": 0.011291434,
+        "InvalidCalculationData.java": 0.011156448
+    },
+    "FluxPbObj2PDF": {
+        "InvCalcReport.java": 0.009733143,
+        "BonusMalusReportTest.java": 0.009542803,
+        "Dfct433Test.java": 0.009389629,
+        "InvCalcReportParkingAggInfo.java": 0.008864857
+    },
+    "PrimesDisplay": {
+        "InvCalcReportBonusMalusResult.java": 0.012719539,
+        "TaxSortTest.java": 0.011921972,
+        "RatingFee.java": 0.011918733,
+        "InvCalcReportAttachmentServiceFeeInvoiceResult.java": 0.011852335
+    },
+    "OutilsFamLog": {
+        "ServiceLogger.java": 0.020003486,
+        "BDTDump.java": 0.014714427,
+        "ToStringUtil.java": 0.014166211
+    },
+    "DerogationDcaBean": {
+        "InvCalcOriginRatingFeeAttachment.java": 0.01713368,
+        "InvCalcEntityParameters.java": 0.015650578,
+        "DismissFees.java": 0.014998663
+    },
+    "OutilsFamMgt": {
+        "DIRnumCalculator.java": 0.0053365123,
+        "InvCalcGlobalParameters.java": 0.0052293544,
+        "EARnumCalculator.java": 0.005221337,
+        "RatingFee.java": 0.0052026636,
+        "DAOInvCalcOriginInfo.java": 0.014918823,
+        "DAOInvCalcCounters.java": 0.0148478625,
+        "LimitPremiumContextLister.java": 0.014718523,
+        "TestUtils.java": 0.014665181,
+        "TestCancelEntry.java": 0.014642815,
+        "PostCalculationTest.java": 0.013800309,
+        "TestGetEntityParameters.java": 0.013788185,
+        "InvCalcReportCalcLines.java": 0.013561851,
+        "PPBExtensionV10.java": 0.01155387,
+        "ProvPaymentUtil.java": 0.0116423685,
+        "DAOInvCalcPositionFlat.java": 0.011311227,
+        "InvCalcDataDeliveryBean.java": 0.012079386,
+        "BDTDump.java": 0.011180158,
+        "TestContractCCHReport.java": 0.010729423,
+        "InvCalcReportAttachmentServiceFeeInvoiceResult.java": 0.010500526,
+        "WorkerContext.java": 0.011090923,
+        "DAOInvCalcReportCalcLines.java": 0.014050179,
+        "DAOInvCalcReportInvoice.java": 0.01396758,
+        "DAOInvCalcReportIrrecovDebts.java": 0.0139665175,
+        "DAOInvCalcReportRun.java": 0.013739795,
+        "TestInvCalcMisc.java": 0.011303161,
+        "MinimumPremiumInAdvanceCheck.java": 0.011270404
+    },
+    "Sl1e": {
+        "DAOInvCalcOriginSystems.java": 0.011048266,
+        "DAOInvCalcSimuCalcLine.java": 0.010748909,
+        "DAOInvCalcCounters.java": 0.010581586,
+        "DAOInvCalcEntityBankInfo.java": 0.010439871
+    },
+    "AssistanceAFMgt": {
+        "InvCalcDataDeliveryBean.java": 0.012848757,
+        "DAOInvCalcOriginInfo.java": 0.013603403,
+        "DAOInvCalcReportRun.java": 0.012511603,
+        "DAOInvCalcReportCalcLines.java": 0.012368179,
+        "DAOInvCalcReportInvoice.java": 0.011008062,
+        "TestCancelEntry.java": 0.010921614,
+        "DAOInvCalcCounters.java": 0.013759696,
+        "PostCalculationTest.java": 0.0093161855,
+        "AttachmentBonusMalusWorker.java": 0.0137994345,
+        "InvCalcDataImportBean.java": 0.01366681,
+        "TestInvCalcDataDeliverySearch.java": 0.009150906
+    },
+    "AnnulMvtFactureMgt": {
+        "TestGetEntityParameters.java": 0.015161409,
+        "CalculationContext.java": 0.01492173,
+        "InvCalcEntry.java": 0.014324093,
+        "FixedPremiumTest.java": 0.014300942,
+        "TestInvCalcDataImport.java": 0.012335869,
+        "MinimumPremiumTest.java": 0.01204504,
+        "TestUtils.java": 0.010510182,
+        "TestCancelEntry.java": 0.0099235615,
+        "CalculationTest.java": 0.015005428,
+        "DAOInvCalcPositionFlat.java": 0.014683102,
+        "ProvPaymentUtil.java": 0.01459403,
+        "PPBExtensionV10.java": 0.015574988,
+        "TestInvCalcDataDelivery.java": 0.0154724885,
+        "TestContractCCHReport.java": 0.013457218,
+        "InvCalcReportCreatedEntries.java": 0.013421831,
+        "InvCalcReportIrrecovDebts.java": 0.012740931,
+        "CalcDataImportNCBTest.java": 0.012000499,
+        "InvoiceDocument.java": 0.011545862,
+        "CalcDataImportNCB.java": 0.014332606,
+        "InvCalcDataDeliveryBean.java": 0.014245638,
+        "InvCalcLineContainer.java": 0.013834192
+    },
+    "UserSession": {
+        "ServiceLogger.java": 0.008027825,
+        "AbstractAdminContext.java": 0.008023183,
+        "WorklistTests.java": 0.0077600633,
+        "TestUtils.java": 0.0077159936
+    },
+    "RelancesDcaPmsMgt": {
+        "InvCalcDataDeliveryBean.java": 0.01381129,
+        "DAOInvCalcOriginInfo.java": 0.013901941,
+        "TestInvCalcDataDelivery.java": 0.012441051,
+        "DAOInvCalcReportInvoice.java": 0.012142798,
+        "DAOInvCalcPositionFlat.java": 0.013899076,
+        "PPBExtensionV10.java": 0.013822136,
+        "ProvPaymentUtil.java": 0.013735395,
+        "DAOInvCalcCounters.java": 0.013860051
+    },
+    "BlocageProgramMgt": {
+        "InvCalcDataImportBean.java": 0.014692974,
+        "LimitPremiumContextLister.java": 0.014009142,
+        "InvoiceRunBonusMalus.java": 0.013713064,
+        "CalculationTest.java": 0.0136535335,
+        "TestGetEntityParameters.java": 0.0124427,
+        "TestCancelEntry.java": 0.013028114,
+        "PostCalculationTest.java": 0.0114663625,
+        "DAOInvCalcPositionFlat.java": 0.011908692
+    },
+    "MajPrimeMgt": {
+        "PostCalculationTest.java": 0.013634244,
+        "TestGetEntityParameters.java": 0.012953131,
+        "InvCalcDataDeliveryBean.java": 0.012591305,
+        "ServicesDataHolder.java": 0.011382147,
+        "AbstractCalcLineDataAssembler.java": 0.011000887,
+        "InvCalcOriginToplinerPremium.java": 0.014938972,
+        "InvCalcEntityParameters.java": 0.014979952,
+        "TestInvCalcMisc.java": 0.0124627715,
+        "TestCancelEntry.java": 0.012340367,
+        "TestInvCalcDataDelivery.java": 0.012385452,
+        "ConsumptionReportUtilForPdf.java": 0.014639103,
+        "TaxSortTest.java": 0.014323893,
+        "BDTDump.java": 0.009122243,
+        "ReferenceDate.java": 0.00903884,
+        "NotificationStrategy.java": 0.006231186,
+        "InvCalcEntryAdministrationBean.java": 0.0061613396,
+        "ToStringUtil.java": 0.0059571424,
+        "InvoiceRunPP.java": 0.0059161806
+    },
+    "Sl2c": {
+        "DAOInvCalcEntityBankInfo.java": 0.014040773,
+        "DAOInvCalcReportParkingAggInfo.java": 0.0134271225,
+        "DAOInvCalcOriginSystems.java": 0.0129946275,
+        "DAOInvCalcOriginInfoToplinerPremium.java": 0.012581852
+    },
+    "RefactFinDEx": {
+        "DAOInvCalcReportIrrecovDebts.java": 0.01610707,
+        "DAOInvCalcReportCalcLines.java": 0.015872337,
+        "DAOInvCalcReportRun.java": 0.015415933,
+        "InvCalcDataDeliveryBean.java": 0.015337589,
+        "DAOInvCalcReportInvoice.java": 0.016220603,
+        "TestGetEntityParameters.java": 0.0169218,
+        "TestCancelEntry.java": 0.012759668,
+        "PostCalculationTest.java": 0.012509323
+    },
+    "TransfertDcaPres": {
+        "InvCalcEntry.java": 0.0145142535,
+        "InvCalcDataDeliveryBean.java": 0.014253358,
+        "InvCalcReportCalcLines.java": 0.014186731
+    },
+    "ContratMgt": {
+        "ContractInfoFactory.java": 0.007902775,
+        "TacitCancellationContext.java": 0.007637556,
+        "ContractDataHolderInt.java": 0.007635605,
+        "CalculationPrepTypeInt.java": 0.007613475,
+        "TestContract.java": 0.022566937,
+        "AbstractCalcLineDataAssembler.java": 0.021958496,
+        "AbstractPPInstallments.java": 0.021247683,
+        "TestContractCCHReport.java": 0.019316258,
+        "PERFixedPremium.java": 0.022546325,
+        "InvCalcReportNcbDiscrepancy.java": 0.019477261,
+        "PPBExtensionV10.java": 0.019406287,
+        "DeclarationExtensionV10.java": 0.018875126,
+        "ENQAuditExtensionV10.java": 0.017470215,
+        "AttachmentBonusMalusWorker.java": 0.017059147,
+        "NotificationUtil.java": 0.015720159,
+        "DeclarationDIAttributeAssembler.java": 0.0149643915,
+        "FixedPremiumBuilder.java": 0.014776508
+    },
+    "ProfilPCMgt": {
+        "TestGetEntityParameters.java": 0.013114308,
+        "TestUtils.java": 0.011733053,
+        "InvCalcEntityParameters.java": 0.013360289,
+        "DAOInvCalcSimuEntry.java": 0.010432315,
+        "BcCompanyIdentificationAdapter.java": 0.009005702,
+        "DAOInvCalcEntityBankInfo.java": 0.008943221,
+        "TestInvCalcDataDeliverySearch.java": 0.008894979,
+        "TestInvCalcDataDelivery.java": 0.014235883,
+        "PostCalculationTest.java": 0.014212811,
+        "TestCancelEntry.java": 0.014435252,
+        "AbstractCalcLineDataAssembler.java": 0.013685197,
+        "DAOInvCalcCounters.java": 0.010727735,
+        "InvCalcOriginToplinerPremium.java": 0.010691152,
+        "CalculationTest.java": 0.013496906,
+        "InvCalcReportCalcLines.java": 0.0117703425,
+        "DAOInvCalcSimuCalcLine.java": 0.008513263
+    },
+    "PrimesMgt": {
+        "PostCalculationTest.java": 0.015005113,
+        "InvCalcDataDeliveryBean.java": 0.013017737,
+        "TestInvCalcMisc.java": 0.013603842,
+        "TestCancelEntry.java": 0.01228057,
+        "DAOInvCalcLine.java": 0.015356317,
+        "DAOInvCalcReportInvoice.java": 0.015229058,
+        "SaveCalcEntryTest.java": 0.008840525,
+        "PreCheck.java": 0.007950179,
+        "BDTDump.java": 0.0077591236,
+        "InvCalcEntityParameters.java": 0.013367767,
+        "TestGetEntityParameters.java": 0.013259644,
+        "AttachmentMalusWorker.java": 0.012474919,
+        "ServicesDataHolder.java": 0.008761666,
+        "FixedPremiumTest.java": 0.008597219,
+        "TestInvCalcDataDelivery.java": 0.0148980515,
+        "AbstractRnumCalculator.java": 0.009209206,
+        "BonusMalustUtilTest.java": 0.008636908,
+        "AttachmentBonusMalusWorker.java": 0.0139697045,
+        "BonusMalusUtil.java": 0.00843983,
+        "DAOInvCalcReportRun.java": 0.013220488,
+        "InvCalcOriginRatingFeeAttachment.java": 0.014563802,
+        "InvCalcReportCalcLines.java": 0.0121924225
+    },
+    "EntDcaNet": {
+        "DAOInvCalcCounters.java": 0.015725054,
+        "DAOInvCalcOriginInfo.java": 0.015223734,
+        "InvCalcDataDeliveryBean.java": 0.014516506
+    },
+    "QueryExecutorBean": {
+        "InvCalcDataDeliveryBean.java": 0.010888001,
+        "DAOInvCalcPositionFlat.java": 0.010727081,
+        "TestUtils.java": 0.01065399,
+        "CalculationContext.java": 0.010439545
+    },
+    "TransfertDca": {
+        "InvCalcDataDeliveryBean.java": 0.018798435,
+        "DAOInvCalcPositionFlat.java": 0.01783424,
+        "ProvPaymentUtil.java": 0.017024323
+    },
+    "PbLiqMgt": {
+        "WorkerContext.java": 0.01132912,
+        "TestGetEntityParameters.java": 0.01842344,
+        "ProvPaymentUtil.java": 0.014534656,
+        "InvCalcOriginRatingFeeAttachment.java": 0.0108300075,
+        "AttachmentBonusMalusWorker.java": 0.016437858,
+        "PERFPExtensionV10.java": 0.016155124,
+        "TestInvCalcDataDelivery.java": 0.019274732,
+        "CalculationTest.java": 0.015714923,
+        "DAOInvCalcReportCalcLines.java": 0.017660027,
+        "DAOInvCalcReportIrrecovDebts.java": 0.01516872,
+        "DAOInvCalcReportRun.java": 0.01566287,
+        "InvoiceRunBonusMalus.java": 0.0160702,
+        "InvCalcDataImportBean.java": 0.015728215,
+        "PostCalculationTest.java": 0.01941231,
+        "AttachmentMalusWorker.java": 0.017499471,
+        "ConsumptionReportUtilForPdf.java": 0.014703577,
+        "SaveCalcEntryTest.java": 0.013839194,
+        "AbstractCalcLineDataAssembler.java": 0.017917221,
+        "BonusMalusUtil.java": 0.015633855,
+        "RatingFeeFlatWThreshold.java": 0.013372431,
+        "BonusExtensionV10.java": 0.012793676,
+        "DeclarationExtensionV10.java": 0.014780122,
+        "DAOInvCalcPositionFlat.java": 0.014837361,
+        "PPBExtensionV10.java": 0.015977114,
+        "FPExtensionV10.java": 0.012411069,
+        "Fee.java": 0.015855711,
+        "CalculationUtil.java": 0.015706813,
+        "AttachmentBonusInGeneralWorker.java": 0.015686616,
+        "TaxControl.java": 0.016890265,
+        "InvCalcOriginToplinerPremium.java": 0.015867766,
+        "CancellationTest.java": 0.015545223,
+        "TaxSortTest.java": 0.016481299,
+        "PremiumTableHelper.java": 0.01051102,
+        "TestCancelEntry.java": 0.013707243,
+        "TestInvCalcMisc.java": 0.014753323,
+        "InvCalcDataDeliveryBean.java": 0.0174363,
+        "DAOInvCalcReportInvoice.java": 0.017489335,
+        "InvCalcPositionFlat.java": 0.015360517,
+        "DAOInvCalcOriginInfo.java": 0.014534828,
+        "DAOInvCalcLine.java": 0.018337637,
+        "InvCalcReportCorrectionsBalanceBroughtForward.java": 0.012076893,
+        "BDTDump.java": 0.011894563,
+        "InvCalcReportCreatedEntries.java": 0.011803427,
+        "InvCalcReportIrrecovDebts.java": 0.011743292,
+        "TestContractCCHReport.java": 0.017373057,
+        "GetCalcEntryTest.java": 0.012419601,
+        "InvCalcReportCalcLines.java": 0.016197711,
+        "CurrencyUtils.java": 0.009884955,
+        "InvCalcReportWorkListResultBean.java": 0.009337474,
+        "CalculationResult.java": 0.009194686,
+        "AttachmentEntry.java": 0.0135316085,
+        "InvCalcReportAttachmentServiceFeeInvoice.java": 0.008637187,
+        "CalcDataImportNCBTest.java": 0.01773415,
+        "RatingFee.java": 0.01764995,
+        "TestCalcEntry.java": 0.011655188,
+        "InvCalcEntry.java": 0.015093867,
+        "CheckAndSimulateFacade.java": 0.007898845,
+        "DAOInvCalcEntry.java": 0.016032849,
+        "InvCalcReportNcbDiscrepancy.java": 0.0135727255,
+        "InvoiceRunPP.java": 0.01121983,
+        "DAOInvCalcRebateRefs.java": 0.010790804,
+        "ServicesDataHolder.java": 0.0148150055,
+        "DAOInvCalcEntityBankInfo.java": 0.015601232,
+        "InvCalcEntityParameters.java": 0.017496757,
+        "TestDoCalculationExtensions.java": 0.01685942,
+        "DAOInvCalcWorklistTask.java": 0.0069249724
+    },
+    "I18nConstants": {
+        "ConsumptionReportUtil.java": 0.016177874,
+        "Constants.java": 0.014480316,
+        "InvCalcReportWorkListResultBean.java": 0.013961466,
+        "IInvCalcPropKeys.java": 0.013541722
+    },
+    "FamPbDetail": {
+        "DAOInvCalcReportInvoice.java": 0.01758853,
+        "DAOInvCalcOriginInfo.java": 0.01608422,
+        "DAOInvCalcReportRun.java": 0.014898031,
+        "ConsumptionReportUtilForPdf.java": 0.01876133,
+        "SaveCalcEntryTest.java": 0.017405828,
+        "BalanceControl.java": 0.017278833,
+        "TestInvCalcDataDelivery.java": 0.008540993,
+        "CancellationTest.java": 0.0078394925,
+        "InvCalcOriginRatingFeeAttachment.java": 0.01959883,
+        "InvCalcPositionFlat.java": 0.018620694,
+        "InvCalcEntityParameters.java": 0.018449549,
+        "InvCalcOriginAuditFee.java": 0.01730439,
+        "InvCalcReportCalcLinesPLC.java": 0.015950516,
+        "InvCalcRebate.java": 0.015291045
+    },
+    "DcaDisplay": {
+        "InvCalcDataImportBean.java": 0.009542912,
+        "InvalidCalculationData.java": 0.009086849,
+        "WorkerContext.java": 0.008973816,
+        "DAOInvCalcSimuEntry.java": 0.008965839
+    },
+    "TransfertDcaMgt": {
+        "InvCalcDataImportBean.java": 0.016331503,
+        "InvCalcEntry.java": 0.015078068,
+        "AbstractCalcLineDataAssembler.java": 0.015658967,
+        "SaveCalcEntryTest.java": 0.015603391,
+        "DeclarationExtensionV10.java": 0.014644397,
+        "KnownUnknownValidator.java": 0.01461545,
+        "TestInvCalcDataDelivery.java": 0.017091721,
+        "BcCompanyIdentificationAdapter.java": 0.016264183,
+        "DAOInvCalcCounters.java": 0.016000887,
+        "DAOInvCalcReportInvoice.java": 0.01290611,
+        "TestInvCalcMisc.java": 0.01290392,
+        "InvCalcDataDeliveryBean.java": 0.015822697,
+        "DAOInvCalcEntry.java": 0.012808178,
+        "PostCalculationTest.java": 0.011618917,
+        "CalculationUtil.java": 0.010243326,
+        "TestCancelEntry.java": 0.010168817,
+        "CalculationResult.java": 0.0072484477,
+        "DIAttributeTransfer.java": 0.007038149,
+        "BalanceControl.java": 0.006869806
+    },
+    "MajTabsAnoMgt": {
+        "InvCalcDataDeliveryBean.java": 0.0109761385,
+        "PostCalculationTest.java": 0.010913282,
+        "TestCancelEntry.java": 0.0108955065,
+        "InvCalcReportCalcLines.java": 0.010727014
+    },
+    "HistoPbBean": {
+        "InvCalcEntityParameters.java": 0.020217778,
+        "InvCalcPositionFlat.java": 0.019746607,
+        "InvCalcOriginRatingFeeAttachment.java": 0.0194744,
+        "InvCalcOriginToplinerPremium.java": 0.018875742
+    },
+    "EasyGenerationContentHandlerProxy": {
+        "XmlStringNormalizer.java": 0.013277627,
+        "Utils.java": 0.011404221,
+        "BDTUtils.java": 0.011287653,
+        "FreeTextSegmentSFTX.java": 0.010650668
+    },
+    "AppliPourcentBean": {
+        "InvCalcOriginRatingFeeAttachment.java": 0.018507473,
+        "InvCalcReportCalcLinesPLC.java": 0.017788999,
+        "InvCalcOriginInfoAuditFee.java": 0.017657181,
+        "InvCalcOriginInfoRatingFee.java": 0.017162407
+    },
+    "UnitDcaNet": {
+        "DAOInvCalcCounters.java": 0.014367952,
+        "DAOInvCalcOriginSystems.java": 0.01378556,
+        "DAOInvCalcServiceFeeRelations.java": 0.013230062,
+        "DAOSequenceHandler.java": 0.012899551
+    },
+    "IAFUnitDetail": {
+        "CtrctInterprFullBDTDataInt.java": 0.009250524,
+        "CtrctInterprFullBDTData.java": 0.008721365,
+        "IInvCalcPropKeys.java": 0.008435268
+    },
+    "DcaMgt": {
+        "PostCalculationTest.java": 0.015697567,
+        "TestInvCalcMisc.java": 0.015517864,
+        "TestInvCalcDataDelivery.java": 0.015438538,
+        "DAOInvCalcReportIrrecovDebts.java": 0.015399125
+    },
+    "OutilsFamHashMap": {
+        "TaxRegionTypeKey.java": 0.008477549,
+        "BDTDump.java": 0.00841878,
+        "TestContractCCC_Adapt_NCIU.java": 0.008376586,
+        "NcbValuesContainer.java": 0.008320288
+    },
+    "ConsidererFacturerMgt": {
+        "EvaluatorFactory.java": 0.0073384363,
+        "RatingFeeFlatWThresholdExtended.java": 0.007244177,
+        "InvCalcLinesCalculatorExtended.java": 0.0068377033,
+        "RatingFee.java": 0.0067933244,
+        "CalculationTest.java": 0.013559426,
+        "InvCalcLinesCalculator.java": 0.0133928,
+        "InvCalcOriginToplinerPremium.java": 0.013331429,
+        "PPBExtensionV10.java": 0.013112831,
+        "AbstractCalcLineDataAssembler.java": 0.012053568,
+        "TaskHandlerUtilities.java": 0.012052697,
+        "InvCalcEntryAdministrationBean.java": 0.012009058,
+        "EntityCalculator.java": 0.01179283,
+        "InvCalcFeedbackDataBean.java": 0.01110777,
+        "TestGetEntityParameters.java": 0.016334293,
+        "ProvPaymentUtil.java": 0.014968271,
+        "ServicesDataHolder.java": 0.013840752
+    },
+    "BmProfilMgt": {
+        "InvCalcDataImportBean.java": 0.011816556,
+        "TestUtils.java": 0.011745578,
+        "DAOInvCalcSimuCalcLine.java": 0.01165983,
+        "CalculationTest.java": 0.011505105
+    },
+    "ParticipationBeneficiaireBean": {
+        "IBonusMalusUtil.java": 0.0127462465,
+        "InvCalcRebate.java": 0.018613217,
+        "InvCalcEntityParameters.java": 0.022352751,
+        "InvCalcOriginRatingFeeAttachment.java": 0.018467441,
+        "InvCalcReportCalcLinesPLC.java": 0.018445598,
+        "InvCalcLine.java": 0.017485678,
+        "InvCalcOriginAuditFee.java": 0.017435683,
+        "InvCalcOriginToplinerPremium.java": 0.020270733,
+        "InvCalcPositionFlat.java": 0.019545555,
+        "InvCalcEntityBankInfo.java": 0.013858761,
+        "DismissFees.java": 0.018298412,
+        "InvCalcOriginInfoToplinerPremium.java": 0.01789401,
+        "InvalidCalculationData.java": 0.01146214,
+        "AbstractRnumCalculator.java": 0.009878343
+    },
+    "MvtAValider": {
+        "InvCalcOriginRatingFeeAttachment.java": 0.015618448,
+        "InvCalcDataImportBean.java": 0.0152814975,
+        "DAOInvCalcCounters.java": 0.015249473,
+        "DAOInvCalcPositionFlat.java": 0.015207241
+    },
+    "BlocageProgramBean": {
+        "InvCalcOriginRatingFeeAttachment.java": 0.013209112,
+        "InvCalcEntityParameters.java": 0.012943425,
+        "CalculationContext.java": 0.01255495
+    },
+    "AcheteursMgt": {
+        "PostCalculationTest.java": 0.016078217,
+        "InvCalcReportCalcLines.java": 0.015814945,
+        "InvCalcDataDeliveryBean.java": 0.015781946,
+        "DAOInvCalcReportIrrecovDebts.java": 0.014986295
+    },
+    "AnnulMvtFactureDetMgt": {
+        "FixedPremiumTest.java": 0.018164674,
+        "PPBExtensionV10.java": 0.017957993,
+        "MinimumPremiumTest.java": 0.017918503,
+        "InvCalcEntityParameters.java": 0.017801877,
+        "InvCalcEntry.java": 0.017665518,
+        "PERFPExtensionV10.java": 0.015498631,
+        "InvCalcLine.java": 0.015364061,
+        "PERFixedPremium.java": 0.015179355,
+        "InvCalcOriginRatingFeeAttachment.java": 0.015680645,
+        "AbstractPPInstallments.java": 0.01523151,
+        "InvCalcOriginInfoAuditFee.java": 0.015146618,
+        "PostCalculationTest.java": 0.012578004,
+        "InvCalcDataDeliveryBean.java": 0.01198162,
+        "DAOInvCalcPositionFlat.java": 0.011768936,
+        "TestCancelEntry.java": 0.011676912,
+        "InvCalcDataImportBean.java": 0.011999224,
+        "InvoiceRelatedTaxCalculation.java": 0.011959591,
+        "AttachmentBonusMalusWorker.java": 0.011840947
+    },
+    "FluxBmObj2PDF": {
+        "InvCalcReport.java": 0.010331288,
+        "BonusMalusReportTest.java": 0.010326343,
+        "Dfct433Test.java": 0.009903426,
+        "InvoiceCreationBodyTest.java": 0.009181573
+    },
+    "BloquerFactuMgt": {
+        "InvCalcEntityParameters.java": 0.013248664,
+        "CheckAndSimulateFacade.java": 0.011017183,
+        "InvCalcOriginToplinerPremium.java": 0.010995347,
+        "KnownUnknownValidator.java": 0.010957425,
+        "CalculationTest.java": 0.01413812,
+        "TestGetEntityParameters.java": 0.014804141,
+        "InvCalcReportNcbDiscrepancy.java": 0.013261304,
+        "TestCancelEntry.java": 0.012922238,
+        "ProvPaymentUtil.java": 0.01231436,
+        "LimitPremiumContextLister.java": 0.012281616,
+        "PostCalculationTest.java": 0.014095181,
+        "InvCalcDataDeliveryBean.java": 0.013562271,
+        "DAOInvCalcReportInvoice.java": 0.008320974,
+        "ReportHeaderUtil.java": 0.0080582285,
+        "AbstractCalcLineDataAssembler.java": 0.010381495,
+        "CalculationUtil.java": 0.010890894
+    },
+    "FtabMgt": {
+        "DeclarationDIAttributeAssembler.java": 0.019271785,
+        "InvCalcDataImportBean.java": 0.018890949,
+        "InfolinesBuilderCDE.java": 0.0183701,
+        "DeclarationExtensionV10.java": 0.018174447,
+        "DAOInvCalcCounters.java": 0.016194332,
+        "TestCancelEntry.java": 0.01517916,
+        "SaveCalcEntryTest.java": 0.014520821,
+        "AbstractCalcLineDataAssembler.java": 0.013838153,
+        "CalculationTest.java": 0.013421124,
+        "DAOInvCalcReportIrrecovDebts.java": 0.012629183,
+        "PostCalculationTest.java": 0.012552262,
+        "TestInvCalcMisc.java": 0.011890277,
+        "TestInvCalcDataDelivery.java": 0.012903433
+    },
+    "InternalConst": {
+        "Constants.java": 0.018284883,
+        "ConsumptionReportUtil.java": 0.018119438,
+        "InvCalcEntityParameters.java": 0.016245263,
+        "IInvCalcPropKeys.java": 0.015397241,
+        "InternInvoiceCalculationConstants.java": 0.013520558,
+        "DeclarationDIAttributeAssembler.java": 0.013328206,
+        "AttachmentBonusMalusWorker.java": 0.01748302,
+        "BDTDump.java": 0.016876375,
+        "CommercialSectorUtil.java": 0.016626313
+    },
+    "HistoPbMgt": {
+        "InvCalcOriginToplinerPremium.java": 0.013895522,
+        "PostCalculationTest.java": 0.013713637,
+        "TestGetEntityParameters.java": 0.013598875,
+        "InvCalcEntityParameters.java": 0.013369317
+    },
+    "GestionPb": {
+        "PERFixedPremium.java": 0.016676689,
+        "CalculationTest.java": 0.012717362,
+        "EntityCalculator.java": 0.012602765,
+        "InvCalcOriginToplinerPremium.java": 0.016043842,
+        "AbstractCalcLineDataAssembler.java": 0.017106412,
+        "InvCalcEntityParameters.java": 0.014139396,
+        "WorkerContext.java": 0.008627938,
+        "PremiumRefundAttachmentWorkerContext.java": 0.008335347,
+        "TestGetEntityParameters.java": 0.008285314,
+        "TestAnalyzeNoClaimsBonusComplete.java": 0.008212423,
+        "AttachmentBonusProfitParticipationWorkerCde.java": 0.012052626,
+        "DeclarationExtensionV10.java": 0.01661193,
+        "TaskHandlerUtilities.java": 0.011484856,
+        "NotificationUtil.java": 0.01384641,
+        "FPSExtensionV10.java": 0.013231502,
+        "InvCalcReportWorkListResultBean.java": 0.013636855,
+        "MinimumPremiumUtil.java": 0.014023276,
+        "PERFPExtensionV10.java": 0.01577271,
+        "Fee.java": 0.0151196895,
+        "AttachmentMalusWorker.java": 0.015618577,
+        "AttachmentBonusInGeneralWorker.java": 0.0153709,
+        "InvCalcDataImportBean.java": 0.014623202,
+        "AbstractTaxCalculationStrategy.java": 0.01325694,
+        "ConsumptionReportUtilForPdf.java": 0.01427998,
+        "TaxInfoFacade.java": 0.0052474425,
+        "ClaimUtil.java": 0.005145509,
+        "TaxCalculationStrategyFacade.java": 0.00510291,
+        "DIInvCalcLineListAnalyzer.java": 0.004645218,
+        "CalcLineValidator.java": 0.017205048,
+        "TaxUtils.java": 0.016915416,
+        "SaveCalcEntryTest.java": 0.016170567,
+        "InvCalcDataDeliveryBean.java": 0.0103075225,
+        "DAOInvCalcSimuCalcLine.java": 0.010244865,
+        "InvCalcReportCreatedEntries.java": 0.011032055,
+        "PPBExtensionV10.java": 0.011018751,
+        "InvCalcPositionFlat.java": 0.0130775245,
+        "InfolinesBuilderCDE.java": 0.011128512,
+        "FixedPremiumBuilder.java": 0.010832858,
+        "PostCalculationTest.java": 0.013509177,
+        "BonusMalusUtil.java": 0.0136140315,
+        "TaxSortTest.java": 0.011671689,
+        "PRPCalculator.java": 0.012420631,
+        "PrelimDeclOnBaseMPExtensionV10.java": 0.012299525,
+        "NCBInfo.java": 0.012045786,
+        "AttachmentBonusInGeneralWorkerCat.java": 0.009601662,
+        "PlusFPSExtensionV10.java": 0.0074907867,
+        "AttachmentBonusMalusWorker.java": 0.008485532,
+        "MPDExtensionV10.java": 0.010339881,
+        "ScaleSplit.java": 0.010313325,
+        "CancellationTest.java": 0.008979518,
+        "BonusMalusEntryBuilderCAT.java": 0.008613312,
+        "AttachmentBonusProfitParticipationWorker.java": 0.013848282,
+        "InvCalcReportNcbDiscrepancy.java": 0.009645926,
+        "ScaleFPSExtensionV10.java": 0.009574373,
+        "InvCalcOriginRatingFeeAttachment.java": 0.010190028,
+        "InvCalcReportCalcLinesPLC.java": 0.01009864,
+        "InvCalcOriginAuditFee.java": 0.009833143,
+        "InvCalcOriginAuditFeeAttachment.java": 0.009764206
+    },
+    "MvtAValiderMgt": {
+        "InvCalcEntry.java": 0.013779913,
+        "InvCalcEntityParameters.java": 0.013778418,
+        "DAOInvCalcPositionFlat.java": 0.013746737,
+        "TestGetEntityParameters.java": 0.0137442835
+    },
+    "AnomaliesMgt": {
+        "DAOInvCalcOriginInfo.java": 0.013121245,
+        "InvCalcDataDeliveryBean.java": 0.01328443,
+        "DAOInvCalcReportCalcLines.java": 0.012593533,
+        "DAOInvCalcReportInvoice.java": 0.012485033,
+        "AttachmentBonusMalusWorker.java": 0.013003214,
+        "AttachmentMalusWorker.java": 0.012204756,
+        "InfolinesBuilderCAT.java": 0.012133861,
+        "DAOInvCalcPositionFlat.java": 0.01235415,
+        "DAOInvCalcEntry.java": 0.012935663,
+        "AttachmentBonusInGeneralWorker.java": 0.011925847,
+        "ProvPaymentUtil.java": 0.012379449,
+        "LimitPremiumContextLister.java": 0.011303222,
+        "InvoiceRunBonusMalus.java": 0.0124739865,
+        "TestSearchCalcInvoiceV2.java": 0.012405589,
+        "InvCalcDataImportBean.java": 0.012362608
+    },
+    "PeriodeFacturationPres": {
+        "TestGetEntityParameters.java": 0.015245924,
+        "TestCategory.java": 0.01312627,
+        "ReferenceDate.java": 0.012781719,
+        "PostCalculationTest.java": 0.012728943
+    },
+    "MajPrimesMgt": {
+        "TestGetEntityParameters.java": 0.011649228,
+        "PostCalculationTest.java": 0.013661987,
+        "InvCalcDataDeliveryBean.java": 0.0112825185,
+        "AbstractCalcLineDataAssembler.java": 0.014072932,
+        "CancellationTest.java": 0.010453778,
+        "InvCalcOriginRatingFeeAttachment.java": 0.012946203,
+        "InvCalcOriginToplinerPremium.java": 0.013569944,
+        "InvCalcEntityParameters.java": 0.013432954,
+        "TestInvCalcMisc.java": 0.009650053,
+        "TestCancelEntry.java": 0.012672789,
+        "SaveCalcEntryTest.java": 0.012362332,
+        "InvCalcEntry.java": 0.01298061,
+        "InvoiceRelatedTaxCalculation.java": 0.009508012,
+        "InvCalcReportCalcLines.java": 0.009504487
+    },
+    "PbProfilBean": {
+        "InvCalcEntityParameters.java": 0.016402826,
+        "InvCalcOriginRatingFeeAttachment.java": 0.016134918
+    },
+    "DownloadUtils": {
+        "BdtUtil.java": 0.0066536167,
+        "BDTDump.java": 0.006599896,
+        "InvCalcWorklist.java": 0.006420469,
+        "InvalidCalculationData.java": 0.006390953
+    },
+    "EnteteDcaPres": {
+        "InvCalcReportCalcLines.java": 0.014399127,
+        "AttachmentBonusInGeneralWorker.java": 0.014353239,
+        "CommercialSectorUtil.java": 0.014347345,
+        "TestCategory.java": 0.013971198
+    },
+    "IAFUnitDetail_cube05": {
+        "CtrctInterprFullBDTData.java": 0.0082245,
+        "CtrctInterprFullBDTDataInt.java": 0.008180734,
+        "BDTDump.java": 0.007753213,
+        "RPUCalcLineDataAssembler.java": 0.0076681576
+    },
+    "DerogationPrimesFraisPres": {
+        "PostCalculationTest.java": 0.016098063,
+        "InvCalcOriginRatingFeeAttachment.java": 0.015487996,
+        "AttachmentMalusWorker.java": 0.015312191,
+        "BonusMalusUtil.java": 0.015005992
+    },
+    "HistoBmMgt": {
+        "PostCalculationTest.java": 0.012032745,
+        "InvCalcDataDeliveryBean.java": 0.011696684,
+        "TestInvCalcMisc.java": 0.011613594,
+        "TestGetEntityParameters.java": 0.01135072
+    },
+    "FamBaremeBmMgt": {
+        "LogNotificator.java": 0.0066702073,
+        "BDTDump.java": 0.0062804613,
+        "ServiceLogger.java": 0.006072525
+    },
+    "AssAFMandatBean": {
+        "InvalidInvCalcEntryData.java": 0.012202494,
+        "InvCalcOriginInfoRatingFee.java": 0.012017715,
+        "InvCalcOriginInfoAuditFee.java": 0.011949196,
+        "InvCalcOriginRatingFeeAttachment.java": 0.011636209
+    },
+    "AnnulMvtFacture": {
+        "InvCalcEntityParameters.java": 0.020587537,
+        "InvCalcOriginRatingFeeAttachment.java": 0.01927459,
+        "AbstractCalcLineDataAssembler.java": 0.01841327,
+        "PostCalculationTest.java": 0.014828269,
+        "InvCalcDataDeliveryBean.java": 0.014821219,
+        "MinimumPremiumInAdvanceCheck.java": 0.0143787535,
+        "TestCancelEntry.java": 0.014194254,
+        "DAOInvCalcReportInvoice.java": 0.011679203,
+        "DAOInvCalcReportIrrecovDebts.java": 0.01160498,
+        "DAOInvCalcReportCalcLines.java": 0.017907044,
+        "DAOInvCalcLine.java": 0.017947733,
+        "DAOInvCalcReportRun.java": 0.018385146
+    },
+    "AnomaliePres": {
+        "AttachmentBonusMalusWorker.java": 0.011823042,
+        "BDTDump.java": 0.011751784,
+        "BonusMalusUtil.java": 0.0116987815
+    },
+    "OutilExtractMgt": {
+        "TestContractCCHReport.java": 0.013304544,
+        "TestInvCalcDataDelivery.java": 0.014133849,
+        "InvCalcDataDeliveryBean.java": 0.012250757,
+        "BDTDump.java": 0.014547858,
+        "AttachmentBonusMalusWorker.java": 0.013613428,
+        "CalculationTest.java": 0.01372678,
+        "PPBExtensionV10.java": 0.013435766,
+        "DAOInvCalcPositionFlat.java": 0.011827576,
+        "InvCalcOriginRatingFeeAttachment.java": 0.013952439,
+        "InvCalcEntityParameters.java": 0.011670177,
+        "TestCancelEntry.java": 0.013233677,
+        "DoCalculationExtensionsTest.java": 0.012666311,
+        "TestDoCalculationExtensions.java": 0.012645183,
+        "InvCalcReportCalcLines.java": 0.013063768,
+        "PostCalculationTest.java": 0.012585136,
+        "ConsumptionReportUtil.java": 0.010560364,
+        "AbstractCalcLineDataAssembler.java": 0.010323512
+    },
+    "ProjectMember": {
+        "InvoiceRelatedTaxCalculation.java": 0.00949453,
+        "InvCalcWorklist.java": 0.009398002,
+        "InvoiceRunTypeTest.java": 0.009176095,
+        "InvCalcReportContractResult.java": 0.0091702435
+    },
+    "PresentationMgt": {
+        "BDTDump.java": 0.006503615,
+        "InvCalcWorklist.java": 0.005977565,
+        "TestUtils.java": 0.005941262,
+        "InvCalcGlobalParameters.java": 0.005882749
+    },
+    "PbDetailMgt": {
+        "InvCalcReportServicesPLC.java": 0.005955701,
+        "InvCalcRunOrderCtrctCodes.java": 0.0056957356,
+        "InvCalcWorklistTaskAdminParam.java": 0.0056597735,
+        "InvCalcRebateRefs.java": 0.0056098783,
+        "InvCalcEntry.java": 0.016365891,
+        "TestGetEntityParameters.java": 0.015710298,
+        "DAOInvCalcPositionFlat.java": 0.016816724,
+        "PPBExtensionV10.java": 0.017010096,
+        "AbstractCalcLineDataAssembler.java": 0.0119144935,
+        "MinimumPremiumTest.java": 0.011865298,
+        "AbstractPPInstallments.java": 0.01523151,
+        "AttachmentBonusMalusWorker.java": 0.017378012,
+        "PERFPExtensionV10.java": 0.017316822,
+        "BonusMalusUtil.java": 0.016723176,
+        "BonusMalusEntryBuilderCAT.java": 0.016671289,
+        "InvCalcOriginRatingFeeAttachment.java": 0.015680645,
+        "InvCalcOriginInfoAuditFee.java": 0.015146618,
+        "PostCalculationTest.java": 0.013468106,
+        "InvCalcDataDeliveryBean.java": 0.013199035,
+        "TestCancelEntry.java": 0.011676912,
+        "InvCalcEntityParameters.java": 0.011387473,
+        "RoundingControl.java": 0.011079379
+    },
+    "Ftab": {
+        "TestGetEntityParameters.java": 0.013033944,
+        "ProvPaymentUtil.java": 0.01443488,
+        "PostCalculationTest.java": 0.01296814,
+        "TestUtils.java": 0.012788953,
+        "DAOInvCalcPositionFlat.java": 0.013986638,
+        "TestContractCCHReport.java": 0.013500308,
+        "InvCalcReportCalcLines.java": 0.013351933,
+        "BDTDump.java": 0.014523497,
+        "TestCancelEntry.java": 0.014677554,
+        "InvCalcEntityParameters.java": 0.01500254,
+        "ConsumptionReportUtil.java": 0.014139681
+    },
+    "GestionAssistanceAFBean": {
+        "WorkerContext.java": 0.011879623,
+        "AbstractAdminContext.java": 0.011270749,
+        "InvCalcOriginRatingFeeAttachment.java": 0.010384027,
+        "AbstractCalculationStrategy.java": 0.010243671,
+        "DAOInvCalcPositionFlat.java": 0.013271399,
+        "TestUtils.java": 0.012822351,
+        "LimitPremiumContextLister.java": 0.01273665,
+        "DeclarationExtensionV10.java": 0.012710956,
+        "InvCalcEntry.java": 0.012877104,
+        "InvoiceDocument.java": 0.012764149,
+        "EntityHelperFacade.java": 0.013106576,
+        "TestGetEntityParameters.java": 0.013156161,
+        "TestContractCCC.java": 0.011366374,
+        "TestCancelEntry.java": 0.0107731335,
+        "KnownUnknownValidator.java": 0.011344186,
+        "DefaultPersonInChargeEvaluator.java": 0.011303851,
+        "RatingFee.java": 0.0111794565,
+        "PPBExtensionV10.java": 0.01284464
+    },
+    "FamHistoPb": {
+        "InvCalcOriginRatingFeeAttachment.java": 0.023364326,
+        "InvCalcPositionFlat.java": 0.022394698,
+        "InvCalcEntityParameters.java": 0.02199777,
+        "InvCalcOriginInfoToplinerPremium.java": 0.021189326
+    },
+    "AcheteursBean": {
+        "InvCalcEntityParameters.java": 0.015897075,
+        "InvCalcOriginRatingFeeAttachment.java": 0.015745252,
+        "DismissFees.java": 0.015534664,
+        "InvCalcPositionFlat.java": 0.014282339
+    },
+    "MajPrimesBean": {
+        "InvCalcOriginRatingFeeAttachment.java": 0.016827404,
+        "InvCalcReportCalcLinesPLC.java": 0.01607038,
+        "InvalidCalculationData.java": 0.016037565,
+        "InvCalcLine.java": 0.015724378
+    },
+    "FamHabilitationUtilisateurMgt": {
+        "TestUtils.java": 0.015162377,
+        "DAOInvCalcCounters.java": 0.01564141,
+        "TestGetEntityParameters.java": 0.012729718,
+        "InvCalcDataDeliveryBean.java": 0.013468369,
+        "TestCancelEntry.java": 0.016467096,
+        "DAOInvCalcPositionFlat.java": 0.014822887,
+        "BDTDump.java": 0.012320247,
+        "OriginSystemInformer.java": 0.0119318385,
+        "TestAnalyzeNoClaimsBonusComplete.java": 0.011845993,
+        "LimitPremiumContextLister.java": 0.012196844,
+        "DeclarationExtensionV10.java": 0.009741876,
+        "InvCalcEntityParameters.java": 0.009317463,
+        "TestContractCCC.java": 0.009291759,
+        "AbstractCalculationStrategy.java": 0.007721077,
+        "ToplinerPremium.java": 0.0076358467,
+        "MinimumPremiumUtil.java": 0.007572172,
+        "TestInvCalcDataDelivery.java": 0.013352061,
+        "DAOInvCalcWorklistTask.java": 0.009025842,
+        "ServicesDataHolder.java": 0.008982934,
+        "ProvPaymentUtil.java": 0.011649226,
+        "PostCalculationTest.java": 0.011601185
+    },
+    "ContratExercice": {
+        "FixedPremiumTest.java": 0.014055704,
+        "TestDoCalculationExtensions.java": 0.013688153,
+        "MinimumPremiumTest.java": 0.0136636235,
+        "AbstractCalcLineDataAssembler.java": 0.013621861
+    },
+    "FamHabilitUtilit": {
+        "InvCalcOriginRatingFeeAttachment.java": 0.011688583,
+        "InvCalcEntityParameters.java": 0.011653921,
+        "TestUtils.java": 0.011612426,
+        "TestGetEntityParameters.java": 0.011570277
+    },
+    "EnvoiMail": {
+        "CBE_10005_Test.java": 0.0070925853,
+        "CDE_10005_Test.java": 0.0070377416,
+        "CNL_10005_Test.java": 0.0070054997,
+        "DispatchChannelBuilder.java": 0.0068396507
+    },
+    "CalculPbBean": {
+        "DAOInvCalcSimuCalcLine.java": 0.008252648,
+        "InvCalcLineContainer.java": 0.008244536,
+        "DAOInvCalcSimuTax.java": 0.0079739615,
+        "InvCalcEntityParameters.java": 0.017671233,
+        "InvCalcOriginRatingFeeAttachment.java": 0.015534741,
+        "InvCalcPositionFlat.java": 0.018080119,
+        "AbstractCalcLineDataAssembler.java": 0.018144175,
+        "TestGetEntityParameters.java": 0.0110333,
+        "DismissFees.java": 0.010100673
+    },
+    "ConsidererFacturerBean": {
+        "InvCalcOriginRatingFeeAttachment.java": 0.013853109,
+        "InvCalcEntityParameters.java": 0.013524557,
+        "TestGetEntityParameters.java": 0.013043332,
+        "CalculationContext.java": 0.01289334
+    },
+    "FraisFactureBean": {
+        "InvCalcOriginRatingFeeAttachment.java": 0.018344296,
+        "InvCalcPositionFlat.java": 0.017883103,
+        "InvCalcEntityParameters.java": 0.017734475
+    },
+    "RelanceDcaPmsBean": {
+        "InvCalcReportWorkListResultBean.java": 0.019452568,
+        "InvCalcReportCalcLinesPLC.java": 0.018980816,
+        "InvalidCalculationData.java": 0.018838942,
+        "InvCalcOriginAuditFeeAttachment.java": 0.018490318
+    },
+    "ProjectTeamXMLReader": {
+        "InvCalcReport.java": 0.0143914465,
+        "AbstractAttachmentWorkerHelper.java": 0.013365383,
+        "ContractBdtToXmlFile.java": 0.01282913,
+        "InvoiceDocument.java": 0.012490892,
+        "BDTDump.java": 0.012366098,
+        "TaskHandlerUtilities.java": 0.011226749,
+        "ConsumptionReportUtilForPdf.java": 0.010941586,
+        "MinimumPremiumTest.java": 0.01088716,
+        "TestContractCCHReport.java": 0.011066736,
+        "InvCalcReportAttachmentServiceFeeInvoice.java": 0.011694815,
+        "InvCalcReportCreatedEntries.java": 0.011630779
+    },
+    "FamMvtDcaNet": {
+        "AbstractCalcLineDataAssembler.java": 0.014138129,
+        "InvCalcLinesCalculator.java": 0.013715374,
+        "DAOInvCalcCounters.java": 0.013416977
+    },
+    "I18N": {
+        "AbstractSurchargeType.java": 0.015444911,
+        "InvoiceAddressTester.java": 0.010839702,
+        "InvCalcReportWorkListResultBean.java": 0.010275589
+    },
+    "Faq105": {
+        "DAOInvCalcOriginSystems.java": 0.010922894,
+        "DAOInvCalcCounters.java": 0.010496212,
+        "DAOInvCalcRebateRefs.java": 0.010228387,
+        "DAOSequenceHandler.java": 0.010199682
+    },
+    "BmProfilBean": {
+        "InvCalcEntityParameters.java": 0.013440006,
+        "InvCalcOriginRatingFeeAttachment.java": 0.013418652,
+        "DismissFees.java": 0.012569331
+    },
+    "ProfilPCBean": {
+        "InvCalcEntityParameters.java": 0.013844876,
+        "InvCalcOriginRatingFeeAttachment.java": 0.013000174,
+        "InvCalcPositionFlat.java": 0.011732381,
+        "DismissFees.java": 0.011378762
+    },
+    "AbstractFileDownload": {
+        "BdtUtil.java": 0.008113571,
+        "BDTDump.java": 0.00789851,
+        "InvCalcReport.java": 0.0075556315
+    },
+    "DateFacturationBean": {
+        "TestGetEntityParameters.java": 0.01235596,
+        "ReferenceDate.java": 0.011669077,
+        "InvoiceRunMPD.java": 0.010785745
+    },
+    "OCubeUnitDetail": {
+        "CtrctInterprFullBDTDataInt.java": 0.00711272,
+        "RPUCalcLineDataAssembler.java": 0.007047489,
+        "AbstractCalcLineDataAssembler.java": 0.006765656
+    },
+    "ProjectTeam": {
+        "InvCalcOriginRatingFeeAttachment.java": 0.015712762,
+        "InvCalcEntityParameters.java": 0.020359067,
+        "InvCalcOriginInfoToplinerPremium.java": 0.017073233,
+        "InvCalcRebate.java": 0.014107826,
+        "InternInvoiceCalculationConstants.java": 0.016169753,
+        "Constants.java": 0.015015939,
+        "InvCalcOriginAuditFeeAttachment.java": 0.014620664,
+        "InvCalcOriginToplinerPremium.java": 0.016069753,
+        "InvCalcPositionFlat.java": 0.0208472,
+        "InvoiceRelatedTaxCalculation.java": 0.015369069
+    },
+    "SubscriberSession": {
+        "WorklistTests.java": 0.008712379,
+        "ServiceLogger.java": 0.008630814,
+        "TestUtils.java": 0.008338899,
+        "BcOrganizationAdapter.java": 0.00829636
+    },
+    "RelanceDcaPres": {
+        "InvCalcOriginRatingFeeAttachment.java": 0.016635196,
+        "ProvPaymentUtil.java": 0.016605323,
+        "TestGetEntityParameters.java": 0.01581768,
+        "TestCategory.java": 0.015640654
+    },
+    "MontantPbBean": {
+        "InvCalcEntityParameters.java": 0.015263422,
+        "InvCalcRebate.java": 0.015216188,
+        "InvCalcPositionFlat.java": 0.0150110135,
+        "InvCalcOriginToplinerPremium.java": 0.014687864
+    },
+    "PbAValiderBean": {
+        "InvCalcEntityParameters.java": 0.020250743,
+        "InvCalcOriginRatingFeeAttachment.java": 0.020015491,
+        "InvCalcPositionFlat.java": 0.018850105,
+        "AbstractCalcLineDataAssembler.java": 0.018255455
+    },
+    "ReactivationDcaMgt": {
+        "InvCalcDataDeliveryBean.java": 0.015575292,
+        "TestGetEntityParameters.java": 0.015076193,
+        "DAOInvCalcReportInvoice.java": 0.014492707,
+        "DAOInvCalcReportIrrecovDebts.java": 0.014380988,
+        "ServicesDataHolder.java": 0.013142029,
+        "AbstractCalcLineDataAssembler.java": 0.013325447,
+        "SaveCalcEntryTest.java": 0.013274435,
+        "DAOInvCalcCounters.java": 0.013253277
+    },
+    "FraisFactureDisplay": {
+        "InvCalcPositionFlat.java": 0.016642675,
+        "InvCalcOriginToplinerPremium.java": 0.014919697,
+        "ConsumptionReportUtilForPdf.java": 0.014585827,
+        "InvCalcEntityParameters.java": 0.014463928
+    },
+    "ProjectTeamBm": {
+        "InvCalcOriginRatingFeeAttachment.java": 0.01948551,
+        "InvCalcOriginAuditFee.java": 0.018772969,
+        "InvalidCalculationData.java": 0.015169363,
+        "InvCalcOriginInfoAuditFee.java": 0.01166901,
+        "InvCalcEntityParameters.java": 0.018972635,
+        "InvCalcOriginInfoToplinerPremium.java": 0.017277213,
+        "InvCalcOriginAuditFeeAttachment.java": 0.01808589,
+        "InvCalcReportCalcLinesPLC.java": 0.01694781,
+        "InvCalcPositionFlat.java": 0.017966533,
+        "InvoiceRelatedTaxCalculation.java": 0.01488921
+    },
+    "DerogationPrimeBean": {
+        "InvCalcOriginRatingFeeAttachment.java": 0.015068006,
+        "InvCalcEntityParameters.java": 0.014421788,
+        "DismissFees.java": 0.013979257
+    },
+    "ProjectTeamInputSource": {
+        "InvCalcWorklist.java": 0.008995324,
+        "ProcessedObject.java": 0.008601489,
+        "InvCalcOriginRatingFeeAttachment.java": 0.00815855,
+        "IDAOInvCalcWorklistTask.java": 0.0081560975
+    },
+    "MajTypeDcaPres": {
+        "DAOInvCalcReportParkingAggInfo.java": 0.012218515,
+        "BDTDump.java": 0.0121019585,
+        "InvCalcReportCreatedEntries.java": 0.012033389,
+        "TestGetEntityParameters.java": 0.011790019
+    },
+    "MajorMinorFeesBean": {
+        "InvCalcOriginRatingFeeAttachment.java": 0.01433634,
+        "InvCalcEntityParameters.java": 0.013375216,
+        "InvCalcServiceProperties.java": 0.012614451,
+        "DismissFees.java": 0.01200827
+    },
+    "FamPbProfil": {
+        "InvCalcEntityParameters.java": 0.016702889,
+        "InvCalcOriginRatingFeeAttachment.java": 0.015903585,
+        "InvCalcOriginToplinerPremium.java": 0.015183637,
+        "InvCalcEntityBankInfo.java": 0.015025534
+    },
+    "FamPbLiq": {
+        "InvCalcOriginAuditFee.java": 0.017899556,
+        "InvCalcOriginRatingFeeAttachment.java": 0.014791833,
+        "InvCalcPositionFlat.java": 0.020222018,
+        "InvCalcRebate.java": 0.01568877,
+        "DismissFees.java": 0.019215114,
+        "InvCalcEntityParameters.java": 0.019988807,
+        "InvCalcOriginInfoToplinerPremium.java": 0.015798679,
+        "PostCalculationTest.java": 0.015197978,
+        "DAOInvCalcReportIrrecovDebts.java": 0.016035315,
+        "InvCalcDataDeliveryBean.java": 0.0145725645,
+        "DAOInvCalcReportInvoice.java": 0.020661628,
+        "DAOInvCalcEntityBankInfo.java": 0.011893016,
+        "DAOInvCalcPositionFlat.java": 0.010680214,
+        "DAOInvCalcLine.java": 0.01859099,
+        "DAOInvCalcReportCalcLines.java": 0.0154845,
+        "TestGetEntityParameters.java": 0.014138313,
+        "TestInvCalcMisc.java": 0.013676002,
+        "ServicesDataHolder.java": 0.013475091,
+        "AttachmentBonusInGeneralWorkerCat.java": 0.013896952,
+        "AttachmentMalusWorker.java": 0.013802058,
+        "BonusProfitParticipationReportWorkerContext.java": 0.013791027,
+        "InvCalcReportCalcLinesPLC.java": 0.02058764
+    },
+    "ProjectTeamBmXMLReader": {
+        "Utils.java": 0.013441475,
+        "BDTUtils.java": 0.012655688,
+        "XmlTestUtils.java": 0.012394457,
+        "InvCalcReport.java": 0.013108089,
+        "BDTDump.java": 0.013426837,
+        "TaskHandlerUtilities.java": 0.012764014,
+        "InvoiceCalculationBean.java": 0.012598937,
+        "AbstractAttachmentWorkerHelper.java": 0.009794133,
+        "NotificationUtil.java": 0.009646603,
+        "TestUtils.java": 0.012119684,
+        "CalculationTest.java": 0.012073976,
+        "InvoiceDocument.java": 0.012219246,
+        "InvCalcReportCreatedEntries.java": 0.011358935,
+        "BonusMalusReport.java": 0.011323896
+    },
+    "HistoBmBean": {
+        "InvCalcEntityParameters.java": 0.01715306,
+        "InvCalcOriginRatingFeeAttachment.java": 0.0167197,
+        "InvCalcPositionFlat.java": 0.016460234,
+        "DismissFees.java": 0.015728107
+    },
+    "DetailFraisCsv": {
+        "InvCalcReportIrrecovDebts.java": 0.013608851,
+        "InvCalcReportCreatedEntries.java": 0.013561178,
+        "InvCalcReportCorrectionsBalanceBroughtForward.java": 0.012993414,
+        "ConsumptionReportUtilForPdf.java": 0.012529509,
+        "TestContractCCHReport.java": 0.012487443,
+        "InvCalcReportCalcLinesPerContracts.java": 0.012458651,
+        "TestInvCalcDataDelivery.java": 0.012422727,
+        "CalcDataImportNCBTest.java": 0.012192617,
+        "InvCalcDataDeliveryBean.java": 0.011275611
+    },
+    "FamAnoConsult": {
+        "InvCalcOriginRatingFeeAttachment.java": 0.016408198,
+        "InvCalcEntityParameters.java": 0.015676452,
+        "InvCalcPositionFlat.java": 0.015236229
+    },
+    "OFAM02": {
+        "InvalidInvCalcEntityParamters.java": 0.009594939,
+        "InvalidInvCalcEntryData.java": 0.009572286,
+        "InvalidClaimData.java": 0.008861475,
+        "InvalidInvCalcOriginSystems.java": 0.008818465
+    },
+    "FraisFacturesMgt": {
+        "PPBExtensionV10.java": 0.016211001,
+        "DAOInvCalcPositionFlat.java": 0.012866101,
+        "InvCalcEntityParameters.java": 0.0154059855,
+        "TestInvCalcDataDelivery.java": 0.012689887,
+        "InvCalcOriginRatingFeeAttachment.java": 0.01579772,
+        "CalcDataImportNCBTest.java": 0.015061717,
+        "DAOInvCalcReportIrrecovDebts.java": 0.014141848,
+        "InvCalcDataDeliveryBean.java": 0.014540662,
+        "InvoiceLine.java": 0.014635837,
+        "CancellationTest.java": 0.014568428,
+        "ConsumptionReportUtilForPdf.java": 0.016246844,
+        "BalanceControl.java": 0.014403882,
+        "ServicesDataHolder.java": 0.013665315,
+        "NcbExPostEntryBuilderCDE.java": 0.010671656,
+        "ContractUtil.java": 0.010625872,
+        "InvCalcReportCalcLines.java": 0.015018086,
+        "DAOInvCalcReportInvoice.java": 0.0144343525,
+        "DAOInvCalcReportCalcLines.java": 0.012393393,
+        "InvCalcReportCreatedEntries.java": 0.012349467,
+        "PostCalculationTest.java": 0.01613903,
+        "InvCalcPositionFlat.java": 0.016072745,
+        "PERFixedPremium.java": 0.015790718,
+        "TestGetEntityParameters.java": 0.013416864,
+        "TestCancelEntry.java": 0.017536314
+    },
+    "AssAFTiersBean": {
+        "InvCalcOriginRatingFeeAttachment.java": 0.013295459,
+        "InvCalcEntityParameters.java": 0.012707137,
+        "InvCalcOriginInfoRatingFee.java": 0.012645995,
+        "InvCalcOriginInfoAuditFee.java": 0.012594934
+    },
+    "QueryTools": {
+        "DAOInvCalcEntityBankInfo.java": 0.008883078,
+        "TestGetEntityParameters.java": 0.0081925765,
+        "DAOInvCalcOriginInfoToplinerPremium.java": 0.008183438,
+        "DAOInvCalcRebateRefs.java": 0.008029877
+    },
+    "OAFUnitDetail": {
+        "CtrctInterprFullBDTDataInt.java": 0.008499288,
+        "RPUCalcLineDataAssembler.java": 0.008233486,
+        "AbstractCalcLineDataAssembler.java": 0.00809114
+    },
+    "FamOutilsTraceMgt": {
+        "BDTDump.java": 0.0102483155,
+        "TestCancelEntry.java": 0.010213831,
+        "DAOInvCalcCounters.java": 0.009779687,
+        "AbstractCalcLineDataAssembler.java": 0.009411331
+    },
+    "DetailContratBean": {
+        "InvCalcOriginRatingFeeAttachment.java": 0.02042921,
+        "InvCalcReportCalcLinesPLC.java": 0.018029166,
+        "InvCalcEntityParameters.java": 0.017659232,
+        "InvCalcReportWorkListResultBean.java": 0.0174782
+    },
+    "TransfertDcaBean": {
+        "InvCalcEntityParameters.java": 0.022042999,
+        "CalculationContext.java": 0.021030266,
+        "InvCalcOriginRatingFeeAttachment.java": 0.020567512
+    },
+    "FamMvtDcaNetMgt": {
+        "TestInvCalcMisc.java": 0.011757704,
+        "TestCancelEntry.java": 0.0115027055,
+        "PostCalculationTest.java": 0.011473141,
+        "InvCalcDataDeliveryBean.java": 0.0114353215
+    },
+    "Sl1a": {
+        "DAOInvCalcSimuCalcLine.java": 0.010141914,
+        "InvCalcServices.java": 0.009945092,
+        "InvCalcOriginRatingFeeAttachment.java": 0.009757084,
+        "InvCalcEntityParameters.java": 0.009731482
+    },
+    "AnomalieCsv": {
+        "TestInvCalcDataDelivery.java": 0.011016004,
+        "InvCalcReportCorrectionsBalanceBroughtForward.java": 0.010394981,
+        "TestContractCCHReport.java": 0.010299399,
+        "BDTDump.java": 0.010244704
+    },
+    "MvtAValiderBean": {
+        "InvCalcOriginRatingFeeAttachment.java": 0.015859932,
+        "InvCalcEntityParameters.java": 0.015244313,
+        "AbstractCalcLineDataAssembler.java": 0.014675628
+    },
+    "FamToolsNumber": {
+        "ConsumptionReportUtilForPdf.java": 0.017085819,
+        "CurrencyUtils.java": 0.014692998,
+        "CORCalculator.java": 0.0121718515,
+        "InvCalcReportWorkListResultBean.java": 0.016477257,
+        "AbstractCalcLineDataAssembler.java": 0.0137087,
+        "TestInvCalcDataDelivery.java": 0.002957364
+    },
+    "DetailFraisBean": {
+        "InvCalcReportCalcLinesPLC.java": 0.018417746,
+        "InvCalcOriginRatingFeeAttachment.java": 0.01677674,
+        "InvCalcOriginAuditFee.java": 0.016699616,
+        "InvCalcReportWorkListResultBean.java": 0.01653757
+    },
+    "ReactivationDcaBean": {
+        "InvCalcOriginRatingFeeAttachment.java": 0.016832335,
+        "InvCalcEntry.java": 0.01591861,
+        "InvCalcPositionFlat.java": 0.0149979135,
+        "CalculationContext.java": 0.014931962
+    },
+    "FamBaremeBm": {
+        "InvCalcOriginRatingFeeAttachment.java": 0.016538663,
+        "AbstractCalcLineDataAssembler.java": 0.014752528,
+        "InvCalcEntityBankInfo.java": 0.014663535
+    },
+    "ForcagePbBean": {
+        "InvCalcOriginRatingFeeAttachment.java": 0.017113453,
+        "DismissFees.java": 0.017097378,
+        "InvCalcPositionFlat.java": 0.016363304,
+        "InvCalcOriginInfoRatingFee.java": 0.016088886
+    },
+    "MajTypeDcaMgt": {
+        "InvCalcDataImportBean.java": 0.021870622,
+        "DAOInvCalcEntities.java": 0.018789748,
+        "InvoiceRunBonusMalus.java": 0.018367551,
+        "DAOInvCalcCounters.java": 0.017972376
+    },
+    "BonusMalusBean": {
+        "InvCalcOriginRatingFeeAttachment.java": 0.022678232,
+        "InvCalcEntityParameters.java": 0.0221039,
+        "InvCalcPositionFlat.java": 0.020757971,
+        "InvCalcOriginToplinerPremium.java": 0.01909,
+        "InvCalcRebate.java": 0.014667539,
+        "BonusMalustUtilTest.java": 0.013677143,
+        "DismissFees.java": 0.020041281,
+        "InvCalcReportCalcLinesPLC.java": 0.020461889,
+        "InvCalcReportNcbEndOfIYResult.java": 0.018967094
+    },
+    "FraisFactureCsv": {
+        "CalcDataImportNCBTest.java": 0.014986758,
+        "ConsumptionReportUtilForPdf.java": 0.014767864,
+        "InvCalcReportCorrectionsBalanceBroughtForward.java": 0.014758275,
+        "TestInvCalcDataDelivery.java": 0.014548535
+    },
+    "IDownload": {
+        "TaxInfoFacade.java": 0.0066176034,
+        "InvCalcReportBaseResult.java": 0.0065845726,
+        "InvCalcGlobalParameters.java": 0.006404665,
+        "IDAOInvCalcEntityBankInfo.java": 0.0063814633
+    },
+    "PrimesBean": {
+        "InvCalcEntityParameters.java": 0.02037424,
+        "InvCalcPositionFlat.java": 0.0199459,
+        "InvCalcOriginRatingFeeAttachment.java": 0.018756583
+    },
+    "BloquerFactuBean": {
+        "InvCalcOriginRatingFeeAttachment.java": 0.014643379,
+        "InvCalcEntityParameters.java": 0.014487714,
+        "DismissFees.java": 0.0143480385,
+        "InvCalcPositionFlat.java": 0.014059289
+    },
+    "FamDetailFrais2": {
+        "InvCalcOriginRatingFeeAttachment.java": 0.008489665,
+        "InvCalcEntityParameters.java": 0.008051738,
+        "TestGetEntityParameters.java": 0.007803616,
+        "InvCalcServiceProperties.java": 0.007777576
+    },
+    "Sl1t": {
+        "InvCalcPositionFlat.java": 0.019624952,
+        "InvCalcEntityParameters.java": 0.019341053,
+        "InvCalcOriginRatingFeeAttachment.java": 0.018888947,
+        "DismissFees.java": 0.01888631
+    },
+    "SimulAccMgt": {
+        "LogNotificator.java": 0.006708995,
+        "DAOInvCalcSimuCalcLine.java": 0.006405489,
+        "DAOInvCalcSimuTax.java": 0.006350151,
+        "DAOInvCalcSimuEntry.java": 0.00627066,
+        "TestGetEntityParameters.java": 0.014050948,
+        "InvCalcEntityParameters.java": 0.012356149,
+        "TestInvCalcMisc.java": 0.01200208,
+        "ReportHeaderUtil.java": 0.008686948,
+        "BDTDump.java": 0.008232238,
+        "DAOInvCalcReportInvoice.java": 0.012348177,
+        "DAOInvCalcReportIrrecovDebts.java": 0.011837115,
+        "DAOInvCalcReportCalcLines.java": 0.011694889,
+        "PostCalculationTest.java": 0.011739818,
+        "TestCancelEntry.java": 0.011173754
+    },
+    "BonusMalusMgt": {
+        "AttachmentBonusMalusWorker.java": 0.016548702,
+        "AttachmentBonusInGeneralWorker.java": 0.014997508,
+        "AbstractCalcLineDataAssembler.java": 0.017745655,
+        "PERFPExtensionV10.java": 0.01573868,
+        "AttachmentMalusWorker.java": 0.018016947,
+        "PostCalculationTest.java": 0.017253194,
+        "TestInvCalcMisc.java": 0.015000505,
+        "TestGetEntityParameters.java": 0.014732495,
+        "DAOInvCalcReportCalcLines.java": 0.01717333,
+        "DAOInvCalcReportInvoice.java": 0.017431801,
+        "DAOInvCalcEntry.java": 0.012474431,
+        "DAOInvCalcPositionFlat.java": 0.0077243824,
+        "DAOInvCalcReportIrrecovDebts.java": 0.015232007,
+        "BonusMalusUtil.java": 0.016518075,
+        "BonusExtensionV10.java": 0.013443474,
+        "RoundingControl.java": 0.015523557,
+        "MalusExtensionV10.java": 0.012560912,
+        "NcbCalculator.java": 0.012400929,
+        "InvCalcDataDeliveryBean.java": 0.016505433,
+        "DAOInvCalcReportRun.java": 0.016356938,
+        "DAOInvCalcLine.java": 0.015885111,
+        "ConsumptionReportUtilForPdf.java": 0.010862982,
+        "InvCalcReportCreatedEntries.java": 0.010452712,
+        "TestInvCalcDataDelivery.java": 0.012785353,
+        "RatingFee.java": 0.0120478785,
+        "GetCalcEntryTest.java": 0.011606889,
+        "InvCalcReportCalcLines.java": 0.0116009265,
+        "TestCalcEntry.java": 0.011535487,
+        "InvCalcOriginToplinerPremium.java": 0.015753208,
+        "AttachmentBonusProfitParticipationWorker.java": 0.01068208,
+        "ReportHeaderUtil.java": 0.009592703,
+        "TestCancelEntry.java": 0.0103035085,
+        "InvCalcReportNcbDiscrepancy.java": 0.006793729,
+        "TaxSortTest.java": 0.005863153,
+        "ClaimUtil.java": 0.0051334184,
+        "TaxInfoFacade.java": 0.0050980425,
+        "PPBExtensionV10.java": 0.016433524,
+        "DAOInvCalcRebate.java": 0.0161409
+    },
+    "QueryExecutorMgt": {
+        "TestUtils.java": 0.010510182,
+        "DAOInvCalcSimuTax.java": 0.0085101845,
+        "DAOInvCalcSimuCalcLine.java": 0.008435724,
+        "DAOInvCalcOriginInfoToplinerPremium.java": 0.008402155,
+        "TestInvCalcDataDelivery.java": 0.015791798,
+        "DAOInvCalcOriginInfo.java": 0.012362709,
+        "InvCalcDataDeliveryBean.java": 0.014245638,
+        "RatingFee.java": 0.010043837,
+        "InvCalcReportCalcLines.java": 0.009613052,
+        "DismissFees.java": 0.009494438,
+        "TestGetEntityParameters.java": 0.015066159,
+        "FixedPremiumTest.java": 0.0144177,
+        "PostCalculationTest.java": 0.014294721,
+        "InvCalcLinesCalculator.java": 0.014185149,
+        "TestInvCalcDataImport.java": 0.01111266,
+        "TestCancelEntry.java": 0.0099235615,
+        "ProvPaymentUtil.java": 0.01450825,
+        "DAOInvCalcPositionFlat.java": 0.014474461,
+        "CalculationTest.java": 0.015430525,
+        "InvCalcDataImportBean.java": 0.014074833,
+        "PPBExtensionV10.java": 0.015999045,
+        "InvCalcEntityParameters.java": 0.015338708,
+        "TestContractCCHReport.java": 0.013933048,
+        "InvCalcReportCreatedEntries.java": 0.013423403,
+        "ConsumptionReportUtilForPdf.java": 0.012991287,
+        "CalcDataImportNCBTest.java": 0.011088242,
+        "InvoiceDocument.java": 0.010860825,
+        "CalcDataImportNCB.java": 0.014332606,
+        "InvCalcLineContainer.java": 0.013834192
+    },
+    "Contrat": {
+        "AbstractCalcLineDataAssembler.java": 0.019133586,
+        "AbstractPPInstallments.java": 0.017465414,
+        "IconOrdersHelper.java": 0.017322,
+        "PostCalculationTest.java": 0.0141148595,
+        "MinimumPremiumInAdvanceCheck.java": 0.012182179,
+        "InvCalcDataDeliveryBean.java": 0.012115041,
+        "DAOInvCalcPositionFlat.java": 0.012019105,
+        "TestInvCalcDataDeliverySearch.java": 0.014051768,
+        "InvCalcReportNcbDiscrepancy.java": 0.014037374,
+        "DAOInvCalcOriginInfo.java": 0.013936661,
+        "InvCalcPositionFlat.java": 0.014525919,
+        "InvCalcEntityParameters.java": 0.013787677
+    },
+    "PropertiesFileMgt": {
+        "ConfigReader.java": 0.0154064875,
+        "TestContractCCC_Adapt_NCIU.java": 0.01097324,
+        "BDTDump.java": 0.009581344,
+        "TestContractCCC_RenameFromTo.java": 0.009465344
+    },
+    "PourcentDomestMgt": {
+        "InvCalcEntityParameters.java": 0.014314678,
+        "AbstractCalcLineDataAssembler.java": 0.015188945,
+        "InvCalcOriginRatingFeeAttachment.java": 0.011238279,
+        "TestCancelEntry.java": 0.016196448,
+        "PostCalculationTest.java": 0.016102362,
+        "AttachmentMalusWorker.java": 0.01487041,
+        "AttachmentBonusMalusWorker.java": 0.0148327015,
+        "PremiumTableHelper.java": 0.008407124,
+        "BDTDump.java": 0.008371076,
+        "DAOInvCalcReportIrrecovDebts.java": 0.013246193,
+        "TestGetEntityParameters.java": 0.021302277,
+        "DAOInvCalcReportInvoice.java": 0.012881149,
+        "ConsumptionReportUtilForPdf.java": 0.015292464,
+        "ServicesDataHolder.java": 0.013380946,
+        "InvCalcDataDeliveryBean.java": 0.012621276,
+        "DAOInvCalcCounters.java": 0.008937612,
+        "MinimumPremiumUtil.java": 0.016344905,
+        "TestInvCalcMisc.java": 0.01623552
+    },
+    "FamHistoBm": {
+        "InvCalcOriginRatingFeeAttachment.java": 0.01801537,
+        "InvCalcEntityParameters.java": 0.016535949,
+        "InvCalcPositionFlat.java": 0.01632646,
+        "DismissFees.java": 0.0161757
+    },
+    "RefactFinDExMgt": {
+        "InvCalcReportCreatedEntries.java": 0.017650688,
+        "InvCalcEntry.java": 0.017529083,
+        "PostCalculationTest.java": 0.017379763,
+        "TestCancelEntry.java": 0.01709644,
+        "TestGetEntityParameters.java": 0.015421128,
+        "DAOInvCalcPositionFlat.java": 0.01518035,
+        "CalculationTest.java": 0.015016605,
+        "InvCalcDataImportBean.java": 0.017168159,
+        "AttachmentBonusMalusWorker.java": 0.016233707,
+        "PERFPExtensionV10.java": 0.016120292,
+        "InvoiceRunBonusMalus.java": 0.015218005,
+        "AbstractCalcLineDataAssembler.java": 0.015065981,
+        "PPBExtensionV10.java": 0.014913089,
+        "PERFixedPremium.java": 0.0145065915,
+        "InvCalcFeedbackDataBean.java": 0.011637343,
+        "InvCalcEntityParameters.java": 0.011707881,
+        "ConsumptionReportUtilForPdf.java": 0.010559698,
+        "KnownUnknownValidator.java": 0.0121898325,
+        "TestInvCalcMisc.java": 0.0137882335,
+        "InvCalcDataDeliveryBean.java": 0.013673122,
+        "DAOInvCalcReportInvoice.java": 0.01164204
+    },
+    "AcheteurBr": {
+        "PPBExtensionV10.java": 0.013037245,
+        "InvCalcEntityParameters.java": 0.012998732,
+        "Fee.java": 0.012898908,
+        "DAOInvCalcPositionFlat.java": 0.012615693
+    },
+    "AppliPourcentMgt": {
+        "InvCalcEntityParameters.java": 0.014559269,
+        "PPBExtensionV10.java": 0.014427625,
+        "InvCalcOriginToplinerPremium.java": 0.013938656,
+        "InvCalcOriginRatingFeeAttachment.java": 0.014384974,
+        "InvCalcOriginInfoToplinerPremium.java": 0.0130720725,
+        "DAOInvCalcPositionFlat.java": 0.012997352,
+        "AbstractCalcLineDataAssembler.java": 0.012096677,
+        "PostCalculationTest.java": 0.014470839,
+        "AttachmentMalusWorker.java": 0.01419563,
+        "TestGetEntityParameters.java": 0.014235995,
+        "DAOInvCalcReportInvoice.java": 0.013745428,
+        "TestInvCalcMisc.java": 0.0132717015,
+        "AttachmentBonusMalusWorker.java": 0.013760229,
+        "InvCalcDataDeliveryBean.java": 0.01373389,
+        "TestCancelEntry.java": 0.011911443
+    },
+    "BaremeBonusMalus": {
+        "InvCalcOriginToplinerPremium.java": 0.015901968,
+        "AbstractCalcLineDataAssembler.java": 0.015713194,
+        "InvCalcOriginInfoToplinerPremium.java": 0.015628634
+    },
+    "MajTabsAnoBean": {
+        "InvalidInvCalcTaxInformation.java": 0.008910626,
+        "BDTDump.java": 0.008863514,
+        "InvalidInvCalcServiceEPRelations.java": 0.00875627,
+        "InvalidInvCalcServiceScopeInsuranceData.java": 0.008743978
+    },
+    "MajorMinorFeesMgt": {
+        "PostCalculationTest.java": 0.015308915,
+        "InvCalcEntityParameters.java": 0.014650331,
+        "PPBExtensionV10.java": 0.014607941,
+        "InvCalcDataDeliveryBean.java": 0.014449464
+    },
+    "PeriodeFacturationBean": {
+        "InvCalcOriginRatingFeeAttachment.java": 0.01365214,
+        "TestGetEntityParameters.java": 0.012326361,
+        "AbstractPPInstallments.java": 0.01206723,
+        "InvCalcPositionFlat.java": 0.012044947
+    },
+    "FamDerog": {
+        "DAOInvCalcPositionFlat.java": 0.012026651,
+        "InvCalcOriginRatingFeeAttachment.java": 0.011889645,
+        "ProvPaymentUtil.java": 0.011718947,
+        "PPBExtensionV10.java": 0.011668821
+    },
+    "FamBonusMalusDetail": {
+        "InvCalcOriginRatingFeeAttachment.java": 0.019879328,
+        "InvCalcEntityParameters.java": 0.019032858,
+        "InvCalcPositionFlat.java": 0.018933062,
+        "InvCalcOriginToplinerPremium.java": 0.018554576
+    },
+    "FamToolsDate": {
+        "InvCalcReportWorkListResultBean.java": 0.018232934,
+        "TestGetEntityParameters.java": 0.017523464,
+        "ReportHeaderUtil.java": 0.0145296855,
+        "ReferenceDate.java": 0.013835404
+    },
+    "Snippet": {
+        "BDTDump.java": 0.0060405885,
+        "LimitConstants.java": 0.0059668985,
+        "RatingFee.java": 0.0059588645,
+        "ContractUtil.java": 0.0059373765
+    },
+    "PourcentDomestBean": {
+        "AbstractCalcLineDataAssembler.java": 0.019095534,
+        "InvCalcEntityParameters.java": 0.018624805,
+        "InvCalcOriginRatingFeeAttachment.java": 0.018531583
+    }
+}
